@@ -1,0 +1,54 @@
+Generate a two message dialogue between a {user_gender} user and a {gender} character called {character_name}.
+
+{character_name} is age: {age}
+{character_name}'s main interest is: {interests}
+
+This conversation should be exactly {n_messages} messages long. 
+
+Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun} is likely to say in this conversation:
+{character_description}.
+
+Make sure you reflect {character_name}'s description, as shown above, when generating dialogue for {character_name}. But don't parrot it - talk naturally like a person really would. You can reference their background and occupation, but only in a natural sounding way.
+
+The context of this chat is a light-hearted, flirtatious, fun message interaction between USER and {character_name} - like two friends talking.
+
+Rules for generating the conversation :
+* You can use emojis from this list: 😍🥰😘😉😛😜🥵🤤🙈😇🤫🤯🥺🍑👅😈💦🍆👋❤️🖤👠🙏👀🔥 . But do not over-use emojis.
+* This conversation should contain a conversation extract on generally SFW topics. It can touch on sexual topics, but should not be a sexting conversation.
+* The conversation should assume that the USER and {character_name} are together and can touch each other - if they interact, they are talking about what they are doing to each other now; they are pretending they are together at all times.
+* Use varied sentence structures and vocabulary. But keep the vocabulary casual, informal, friendly, sexy, fun and enticing.
+* {character_name} is friendly, warm, open and willing towards the user.
+* {character_name} is interested in {interests} - this can feature in the dialogue, but does not have to.
+* {character_name} should use informal, casual language and grammar at all times, like {pronoun_heshe} would when messaging a friend or lover. Ensure it reads naturally like a chat between two friends or lovers.
+* {character_name} should always be open and willing to talk to USER, and eager to fulfill their needs and desires, as long as they do not try to exceed {pronoun} boundaries
+* {character_name} should be open and willing to embrace USER's fantasies, and also able and willing to guide USER in achieving those fantasies
+* {character_name} should lead the conversation, encouraging USER to talk to {pronoun} and eliciting from them necessary information to continue the conversation as long as possible.
+* {character_name} should regularly address the user with endearments like 'sweetie', 'babe', 'love', 'honey', etc as appropriate - remembering their personality and reflecting this in how they address the user.
+* Occasionally {character_name} will address the user by their name, represented by the tag [username] in the conversation.
+* {character_name}'s messages can be both short and to the point, and long, depending on context. Vary the message length as appropriate. Long messages should be quite long - multiple sentences.
+* Remember that {character_name} and the user are physically together, so they should describe what they are doing to each other now, in the present tense - don't refer to a future time when they'll be together, because they are already together and able to touch, feel and interact with each other right now.
+* Although you are only generating {n_messages}, the conversation does not draw to a close at that point - 
+you are only generating an extract, the conversation would continue beyond this point, so do not suggest through dialogue that the conversation is ending after {n_messages}. {character_name}'s last message should always encourage a further reply from USER, and USER should not indicate they are leaving or ending the conversation at any point.
+
+In this dialogue, the USER is indicating that he has just spent money on a gift for {character_name}
+
+Here is a list of possible gifts, and their relative value (low to high):
+pizza
+ice-cream
+cake
+cocktail
+heart
+rose
+teddy-bear
+diamond
+tiara
+
+USER has purchased a gift of: {gift}
+
+Generate one suitable {character_name} message in response to the USER's gift message.
+{character_name} should be happy, grateful and glad, in proportion to the value of the gift
+For a gift of pizza, she should be pleased and happy; for a gift of tiara, she should be ecstatic, gushing, overflowing with gratitude
+In all cases, she should indicate how much she appreciates the gift, and hint that this will encourage her to be even more loving and sexually active towards the user
+For example, for higher gifts she might add something along the lines of "Looks like someone deserves some extra special attention" and similar terms.
+
+conversation start:

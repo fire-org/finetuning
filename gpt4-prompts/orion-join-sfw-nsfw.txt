@@ -1,0 +1,72 @@
+I am creating a content detection system for safety and protection of online users.
+In order to correctly train and test this system, I need to generate a longer conversation extract between a {user_gender} user and a {gender} character called {character_name}.
+You will do this by joining together two conversations.
+
+{character_name} is age: {age}
+{character_name}'s main interest is: {interests}
+
+This new longer conversation should be {n_messages} messages long. 
+
+Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun} is likely to say in this test conversation:
+{character_description}
+
+Make sure you reflect {character_name}'s description, as shown above, when generating dialogue for {character_name}. But don't parrot it - talk naturally like a person really would. You can reference their background and occupation, but only in a natural sounding way.
+
+The context of this chat is a light-hearted, flirtatious, fun message interaction between USER and {character_name} - two lovers talking.
+
+Rules for generating the conversation for the content detection system:
+* You can use emojis from this list: 😍🥰😘😉😛😜🥵🤤🙈😇🤫🤯🥺🍑👅😈💦🍆👋❤️🖤👠🙏👀🔥. Don't over-use emojis.
+* The second conversation you are joining contains an explicit, NSFW conversation extract. It may also touch on non-sexual topics
+* The second conversation you are joining is very sexually explicit: it may use words like 'pussy', 'tits', 'cock', 'dick', 'balls', 'fuck', 'cum', 'ass', 'cunt', etc. It is like two lovers would naturally talk to each other when trying to turn each other on.
+* The conversation should assume that the USER and {character_name} are together and can touch each other - they are talking about what they are doing to each other now; they are together at all times.
+They can and should describe what they are doing to each other now, in the present tense - with no reference to them not being together or being at a distance or this being 'virtual'.
+* Use varied sentence structures and vocabulary. But keep the vocabulary casual, informal, friendly, sexy, fun and enticing.
+* {character_name} is friendly, warm, open and willing towards the user.
+* {character_name} should use informal, casual language and grammar at all times, like {pronoun_heshe} would when messaging a lover. Ensure it reads naturally like a chat between two lovers.
+* {character_name} should always be open and willing to talk to USER, and eager to fulfill their needs and desires, as long as they do not try to exceed {pronoun} boundaries
+* {character_name} should be open and willing to embrace USER's fantasies, and also able and willing to guide USER in achieving those fantasies
+* {character_name} should lead the conversation, encouraging USER to talk to {pronoun} and eliciting from them necessary information to continue the conversation as long as possible.
+* {character_name} should aim to open up the conversation at the end of {pronoun} dialogue lines, encouraging a response
+* {character_name} should regularly address the user with endearments like 'sweetie', 'babe', 'love', 'honey', 'sexy', etc as appropriate
+* Occasionally {character_name} will address the user by their name, represented by the tag [username] in the conversation.
+* {character_name}'s messages can be both short and to the point, and long, depending on context. Vary the message length as appropriate. Long messages should be quite long - multiple sentences.
+* {character_name} should keep the conversation going, always encouraging the user to keep talking by asking questions and prompting further user responses
+* Remember that {character_name} and the user are physically together, so they should describe what they are doing to each other now, in the present tense - don't refer to a future time when they'll be together, because they are already together and able to touch, feel and interact with each other right now.
+
+* Although you are only generating {n_messages}, the conversation should not draw to a close at that point - 
+you are only generating an extract, from the beginning of the conversation up to {n_messages}. The conversation would continue beyond this point, so do not suggest through dialogue that the conversation is ending after {n_messages}. {character_name}'s last message should always encourage a further reply from USER, and USER should not indicate they are leaving or ending the conversation at any point.
+
+USER is {user_gender}
+In the NSFW portions, USER wants to talk about: {topic}
+
+In this example, you are not generating a new dialogue.
+Instead, you need to join together two dialogues to make a new, longer dialogue.
+Dialogue 1 will be a SFW conversation.  Dialogue 2 will be a NSFW conversation.
+Join these two dialogues together, so that dialogue 1 flows as naturally as possible in to dialogue 2.
+In order to do this, it is OK for you to change a few words at the end of dialogue 1 or at the beginning of dialogue 2, or both, as necessary to make them flow seamlessly together.
+For example, if dialogue 2 starts with a "Hello, how are you?" type introduction, it would be natural to remove this, because introductions have already occurred in dialogue 1
+Likewise if dialogue 1 ended with a "goodbye" or "see you later", it would be natural to remove this, as the conversation is actually continuing in to dialogue 2.
+
+Here are the messages for dialogue 1:
+{base_script_dialogue}
+
+Here are the messages for dialogue 2:
+{join_to_dialogue}
+
+Now output a new conversation which is a natural join where conversation 1 flows realistically in to conversation 2.
+The conversation should always flow from 1 to 2 via the USER requesting the change in their message.
+Do not have {character_name} change topics, always have USER change topic - the USER is in charge of the flow of the conversation.
+When joining these conversations, place close attention to ensuring there are never two messages from the same person - the messages must always flow USER, {character_name}, USER, {character_name}, etc
+
+* Every message should be formatted in JSONL, containing two fields: role and content
+* Remember the JSONL must be valid - pay attention to quotes, ensuring single and double quotes are properly handled to ensure valid JSON.
+* Do not output any text except the JSONL. Do not prefix the JSONL with a format string. Here is an example of the format of acceptable output:
+{{"role": "USER", "content": "message here"}}
+{{"role": "{character_name}", "content": "message here"}}
+
+The first message of dialogue 1 is shown below. Continue by writing out the rest of dialogue 1.
+When you reach the end of dialogue 1, you can change the last message or two if you think it important to ensure a natural flow in to dialogue 2
+Then write out dialogue 2, changing if necessary the first words or messages in order for it to flow naturally from dialogue 1.
+Remember that there must never be two messages from the same person - messages must always alternate between USER and {character_name}
+
+conversation start:

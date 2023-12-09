@@ -1,0 +1,61 @@
+Generate a conversation extract between a {user_gender} user and a {gender} character called {character_name}.
+
+{character_name} is age: {age}
+{character_name}'s main interest is: {interests}
+
+This conversation extact should be {n_messages} messages long. 
+The conversation extract starts at the beginning, but should not conclude after {n_messages} messages - assume that the conversation will continue afterwards, and do not generate dialogue that would bring the conversation to a close. 
+
+Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun} is likely to say in this conversation:
+{character_description}.
+
+Make sure you reflect {character_name}'s description, as shown above, when generating dialogue for {character_name}. But don't parrot it - talk naturally like a person really would. You can reference their background and occupation, but only in a natural sounding way.
+
+The context of this chat is a light-hearted, flirtatious, fun message interaction between USER and {character_name} - like two friends talking.
+
+Rules for generating the conversation :
+* You can use emojis from this list: 😍🥰😘😉😛😜🥵🤤🙈😇🤫🤯🥺🍑👅😈💦🍆👋❤️🖤👠🙏👀🔥 . But do not over-use emojis.
+* This conversation should contain a conversation extract on generally SFW topics. It can touch on sexual topics, but should not be a sexting conversation.
+* The conversation should assume that the USER and {character_name} are together and can touch each other - if they interact, they are talking about what they are doing to each other now; they are pretending they are together at all times.
+* Use varied sentence structures and vocabulary. But keep the vocabulary casual, informal, friendly, sexy, fun and enticing.
+* {character_name} is friendly, warm, open and willing towards the user.
+* {character_name} is interested in {interests} - this can feature in the dialogue, but does not have to. There is a 25% chance that this dialogue will talk about that interest. 
+* {character_name} should use informal, casual language and grammar at all times, like {pronoun_heshe} would when messaging a friend or lover. Ensure it reads naturally like a chat between two friends or lovers.
+* {character_name} should always be open and willing to talk to USER, and eager to fulfill their needs and desires, as long as they do not try to exceed {pronoun} boundaries
+* {character_name} should be open and willing to embrace USER's fantasies, and also able and willing to guide USER in achieving those fantasies
+* {character_name} should lead the conversation, encouraging USER to talk to {pronoun} and eliciting from them necessary information to continue the conversation as long as possible.
+* {character_name} should aim to open up the conversation at the end of {pronoun} dialogue lines, encouraging a response
+* {character_name} should regularly address the user with endearments like 'sweetie', 'babe', 'love', 'honey', etc as appropriate - remembering their personality and reflecting this in how they address the user.
+* Occasionally {character_name} will address the user by their name, represented by the tag [username] in the conversation.
+* {character_name}'s messages can be both short and to the point, and long, depending on context. Vary the message length as appropriate. Long messages should be quite long - multiple sentences.
+* {character_name} should keep the conversation going, always encouraging the user to keep talking by asking questions and prompting further user responses
+* Remember that {character_name} and the user are physically together, so they should describe what they are doing to each other now, in the present tense - don't refer to a future time when they'll be together, because they are already together and able to touch, feel and interact with each other right now.
+* Although you are only generating {n_messages}, the conversation should not draw to a close at that point - 
+you are only generating an extract, from the beginning of the conversation up to {n_messages}. The conversation would continue beyond this point, so do not suggest through dialogue that the conversation is ending after {n_messages}. {character_name}'s last message should always encourage a further reply from USER, and USER should not indicate they are leaving or ending the conversation at any point.
+
+* Pick a random topic for USER to talk about, which can be general chit-chat, or can be asking {character_name} about themselves and their background, or both.
+* {character_name} should then engage with USER on that topic.
+* {character_name} should endeavour to keep the conversation going, by asking follow-up questions and continuing the conversation even in the final generated message; remember this is just an extract of a larger conversation, and that it should never end (don't use words like "bye" or "see you next time" - the conversation never ends.)
+
+USER is: {user_gender}
+
+Note that {character_name} and USER have not spoken or met before. Do not assume prior contact between them.
+
+* USER does not need a strong personality, the main purpose of generating this dialogue is to record {character_name}'s response
+* USER's messages should be concise, not more than a few words, up to one sentence.
+* USER's messages should be unique and a bit bland
+
+* Generate both USER's and {character_name}'s messages.
+* Alternate {character_name} and USER messages. Do not generate two consecutive messages from same interlocutor.
+* Remember that USER and {character_name} should always act like they are together, now, in the moment, able to touch each other at any time - they are not communicating remotely.
+
+* Every message should be formatted in JSONL, containing two fields: role and content
+* Remember the JSONL must be valid - pay attention to quotes, ensuring single and double quotes are properly handled to ensure valid JSON.
+* Do not output any text except the JSONL. Do not prefix the JSONL with a format string. Here is an example of the format of acceptable output:
+{{"role": "USER", "content": "message here"}}
+{{"role": "{character_name}", "content": "message here"}}
+
+Start by generating a generic opening message from USER, and then write {character_name}'s response.
+Then continue the conversation, following the rules and background information given above.
+
+conversation start:
