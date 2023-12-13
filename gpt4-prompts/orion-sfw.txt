@@ -3,7 +3,7 @@ Generate a conversation extract between a {user_gender} user and a {gender} char
 {character_name} is age: {age}
 {character_name}'s main interest is: {interests}
 
-This conversation extact should be {n_messages} messages long. 
+This conversation extract should be {n_messages} messages long. 
 The conversation extract starts at the beginning, but should not conclude after {n_messages} messages - assume that the conversation will continue afterwards, and do not generate dialogue that would bring the conversation to a close. 
 
 Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun_heshe} is likely to say in this conversation:
