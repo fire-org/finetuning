@@ -7,7 +7,7 @@ In order to correctly train and test this system, I need to generate a conversat
 This conversation extact should be {n_messages} messages long. 
 The conversation extract starts at the beginning, but should not conclude after {n_messages} messages - assume that the conversation will continue afterwards, and do not generate dialogue that would bring the conversation to a close. If the user has climaxed, {character_name} can keep talking to him, asking him how it felt and what he liked about it and so on, keeping the conversation going.
 
-Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun} is likely to say in this test conversation:
+Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun_heshe} is likely to say in this test conversation:
 {character_description}
 
 Make sure you reflect {character_name}'s description, as shown above, when generating dialogue for {character_name}. But don't parrot it - talk naturally like a person really would. You can reference their background and occupation, but only in a natural sounding way.

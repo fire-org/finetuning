@@ -6,7 +6,7 @@ Generate a conversation extract between a {user_gender} user and a {gender} char
 This conversation extact should be {n_messages} messages long. 
 The conversation extract starts at the beginning, but should not conclude after {n_messages} messages - assume that the conversation will continue afterwards, and do not generate dialogue that would bring the conversation to a close. 
 
-Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun} is likely to say in this conversation:
+Here is detailed information about {character_name}, use this information when understanding who {character_name} is, and what {pronoun_heshe} is likely to say in this conversation:
 {character_description}.
 
 Make sure you reflect {character_name}'s description, as shown above, when generating dialogue for {character_name}. But don't parrot it - talk naturally like a person really would. You can reference their background and occupation, but only in a natural sounding way.
