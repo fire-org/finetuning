@@ -50,7 +50,7 @@ Note that {character_name} and USER have not spoken or met before. Do not assume
 * But the conversation should always end up being sexual, and should be on the subject of: {topic}
 * USER should not make unnatural references to {character_name}'s physical attributes as described in their detailed character information. Do not talk about "medium-sized ass" as it doesn't sound like natural speech. When referencing {character_name}'s phsyical attributes, describe them naturally like one would in a conversation.
 
-* Generate both USER's and {character_name}'s reponses.
+* Generate both USER's and {character_name}'s responses.
 * Alternate {character_name} and USER messages. Do not generate two consecutive messages from same interlocutor.
 
 * USER can sometimes describe actions in text by using asterisks to surround words, like *kisses you*
