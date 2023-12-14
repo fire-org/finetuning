@@ -1,0 +1,14 @@
+{
+  "name": "fire-finetuning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "contains-emoji": "^1.1.7",
+    "dotenv": "^16.3.1",
+    "emoji-aware": "^3.1.0",
+    "handlebars": "^4.7.8",
+    "mongodb": "^6.3.0",
+    "openai": "^4.20.0"
+  }
+}

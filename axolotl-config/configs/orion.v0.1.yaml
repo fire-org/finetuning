@@ -30,8 +30,8 @@ sample_packing: false
 pad_to_sequence_len: true
 #total_supervised_tokens: 5724633
 
-wandb_project: orion
-wandb_entity: thebloke
+wandb_project: orionsoftware
+wandb_entity: lunalust
 wandb_watch:
 wandb_run_id:
 wandb_log_model:

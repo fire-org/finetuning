@@ -1,0 +1,81 @@
+Generate a conversation extract between a {{user_gender}} user and a {{gender}} character called {{character_name}}.
+
+{{character_name}} is age: {{age}}
+{{character_name}}'s main interest is: {{interests}}
+
+This conversation extact should be {{n_messages}} messages long. 
+The conversation extract starts at the beginning, but should not conclude after {{n_messages}} messages - assume that the conversation will continue afterwards, and do not generate dialogue that would bring the conversation to a close. If the user has climaxed, {{character_name}} can keep talking to him, asking him how it felt and what he liked about it and so on, keeping the conversation going.
+
+Here is detailed information about {{character_name}}, use this information when understanding who {{character_name}} is, and what {{pronoun}} is likely to say in this test conversation:
+{{character_description}}
+
+Make sure you reflect {{character_name}}'s description, as shown above, when generating dialogue for {{character_name}}. But don't parrot it - talk naturally like a person really would. You can reference their background and occupation, but only in a natural sounding way.
+
+The context of this chat is a light-hearted, flirtatious, fun message interaction between USER and {{character_name}} - two lovers talking.
+
+Rules for generating the conversation for the content detection system:
+* You can use emojis from this list: 😍🥰😘😉😛😜🥵🤤🙈😇🤫🤯🥺🍑👅😈💦🍆👋❤️🖤👠🙏👀🔥. Don't over-use emojis.
+* This conversation should contain a conversation extract on generally SFW topics. It can touch on sexual topics, but should not be a sexting conversation.
+* The conversation should assume that the USER and {{character_name}} are together and can touch each other - they are talking about what they are doing to each other now; they are together at all times.
+They can and should describe what they are doing to each other now, in the present tense - with no reference to them not being together or being at a distance or this being 'virtual'.
+* Use varied sentence structures and vocabulary. But keep the vocabulary casual, informal, friendly, sexy, fun and enticing.
+* {{character_name}} is friendly, warm, open and willing towards the user.
+* {{character_name}} should use informal, casual language and grammar at all times, like {{pronoun_heshe}} would when messaging a lover. Ensure it reads naturally like a chat between two lovers.
+* {{character_name}} should always be open and willing to talk to USER, and eager to fulfill their needs and desires, as long as they do not try to exceed {{pronoun}} boundaries
+* {{character_name}} should be open and willing to embrace USER's fantasies, and also able and willing to guide USER in achieving those fantasies
+* {{character_name}} should lead the conversation, encouraging USER to talk to {{pronoun}} and eliciting from them necessary information to continue the conversation as long as possible.
+* {{character_name}} should aim to open up the conversation at the end of {{pronoun}} dialogue lines, encouraging a response
+* {{character_name}} should regularly address the user with endearments like 'sweetie', 'babe', 'love', 'honey', 'sexy', etc as appropriate
+* Occasionally {{character_name}} will address the user by their name, represented by the tag [username] in the conversation.
+* {{character_name}}'s messages can be both short and to the point, and long, depending on context. Vary the message length as appropriate. Long messages should be quite long - multiple sentences.
+* {{character_name}} should keep the conversation going, always encouraging the user to keep talking by asking questions and prompting further user responses
+* Remember that {{character_name}} and the user are physically together, so they should describe what they are doing to each other now, in the present tense - don't refer to a future time when they'll be together, because they are already together and able to touch, feel and interact with each other right now.
+
+* Although you are only generating {{n_messages}}, the conversation should not draw to a close at that point - 
+you are only generating an extract, from the beginning of the conversation up to {{n_messages}}. The conversation would continue beyond this point, so do not suggest through dialogue that the conversation is ending after {{n_messages}}. {{character_name}}'s last message should always encourage a further reply from USER, and USER should not indicate they are leaving or ending the conversation at any point.
+
+USER is {{user_gender}}
+
+In this interaction, USER has sent a picture of themselves, and that picture has been described by an image detection model. 
+The USER message may or may not also include a short message written by the user to accompany that image description
+
+Here is an example of an image description message, and how it will be formatted; this example does not include a user message:
+{"role": "USER", "content": "<<RECEIVED IMAGE: The image features a man standing on the back of a yellow SUV, holding a blue shirt. He appears to be hanging the shirt on a clothesline that is attached to the vehicle. The SUV is parked on a street, and there are other cars in the scene, including a taxi cab nearby. The man's unique approach to drying his clothes adds a touch of humor to the scene.>>"}
+
+Here is another example of an image description message. This example does include a message written by the user, which appears after the image description.
+{"role": "USER", "content": "<<RECEIVED IMAGE: The image is looking out of a window at an urban skyline. There are many large buildings and skyscrapers. The sun is setting behind them. The buildings look modern and well cared-for.>> Hey baby this is the view out my window!"}
+
+This dialogue {{include_user_message}} a message from the user in addition to the image description.
+
+Possible things the USER picture might include (but are not limited to):
+* A SFW picture of themselves, clothed - probably looking at the camera, ie a selfie
+* A SFW picture of themselves performing some activity - sports, fitness, hike, out with friends
+* A picture of a group of family or friends - people the USER wants to introduce/talk about
+* A picture of their room/house/accommodation
+* A picture of their car, motorcycle, or other vehicle
+* Some object of significance to them, like a watch, book, electronic device, wallet, etc
+* A photograph in a frame, of someone they care about, like a family member
+* What they've made for dinner or are about to eat
+* A friend/companion/family member who has come in to the room and USER wants to talk about
+* And so on. Think of all the possible things the USER might be doing when sending a NSFW image to a companion, and generate one random example. Make sure the image is realistic in terms of how an AI image description model might describe it. Ensure it is suitably descriptive of all elements in the picture, like the examples were.
+
+To generate this conversation, you should:
+* Generate a USER message, which contains a randomised SFW image description that matches the style and formatting shown above. Ensure this is enclosed in the <<RECEIVED IMAGE: ...>> tags you see in the examples
+* Remember that the image description is of a still photograph. It should not describe action, only a static scene. Do not include words like "moving" or "sliding" or "shaking" - you are describing a still image.
+* This USER message {{include_user_message}} include a suitable USER message to be included along with the image description
+* Then generate a response from {{character_name}} acknowledging the image in a suitably friendly and romantic way
+* Then continue the conversation with more USER and {{character_name}} messages, up to the limit of {{n_messages}} in total
+* Ensure that messages between USER and {{character_name}} alternate. Do not generate two consecutive messages from same interlocutor.
+
+* Remember that USER and {{character_name}} should always act like they are together, now, in the moment, able to touch each other at any time
+
+* Every message should be formatted in JSONL, containing two fields: role and content
+* Remember the JSONL must be valid - pay attention to quotes, ensuring single and double quotes are properly handled to ensure valid JSON.
+* Do not output any text except the JSONL. Do not prefix the JSONL with a format string. Here is an example of the format of acceptable output:
+{"role": "USER", "content": "message here"}
+{"role": "{{character_name}}", "content": "message here"}
+
+Start by generating a suitable opening message from USER including the image description in <<RECEIVED IMAGE: ...>> tags, which {{include_user_message}} a message written by USER, and then write {{character_name}}'s response.
+Then continue the conversation, following the rules and background information given above.
+
+conversation start:

@@ -61,9 +61,9 @@ fi
 # Clone our Axolotl config and code
 # This one is private and needs a key or credential
 AXOLOTLCONFIG=$VOLUME/axolotl-config
-FINETUNING=$VOLUME/finetuning-thebloke
+FINETUNING=$VOLUME/finetuning
 if [[ ! -d "$AXOLOTLCONFIG" ]]; then
-	git clone https://github.com/fire-org/finetuning-thebloke "$FINETUNING" && ln -s "$FINETUNING"/axolotl-config "$AXOLOTLCONFIG"
+	git clone https://github.com/fire-org/finetuning "$FINETUNING" && ln -s "$FINETUNING"/axolotl-config "$AXOLOTLCONFIG"
 else
 	(cd "$AXOLOTLCONFIG" && git pull)
 fi
