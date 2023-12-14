@@ -11,7 +11,7 @@ load_in_4bit: false
 strict: false
 
 datasets:
-  - path: /workspace/finetuning/datasets/orion.v0.1.json
+  - path: /workspace/finetuning/datasets/orion.v0.2.json
     type: orion
 dataset_prepared_path:
 dataset_processes:
@@ -21,7 +21,7 @@ eval_table_size: 0
 val_set_size: 0
 #eval_steps: 0.2
 
-output_dir: /workspace/orion-v0.1
+output_dir: /workspace/orion-v0.2
 
 #warmup_ratio: 0.2
 warmup_steps: 50
@@ -30,8 +30,8 @@ sample_packing: false
 pad_to_sequence_len: true
 #total_supervised_tokens: 5724633
 
-wandb_project: orion
-wandb_entity: thebloke
+wandb_project: lunalust
+wandb_entity: orionsoftware
 wandb_watch:
 wandb_run_id:
 wandb_log_model:
