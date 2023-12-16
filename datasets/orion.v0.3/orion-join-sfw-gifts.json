@@ -195,7 +195,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -399,7 +399,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -723,7 +723,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -1039,7 +1039,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -1427,7 +1427,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -1855,7 +1855,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -2203,7 +2203,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -2455,7 +2455,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -2635,7 +2635,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -2919,7 +2919,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -3155,7 +3155,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -3383,7 +3383,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -3659,7 +3659,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -3863,7 +3863,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -4131,7 +4131,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -4407,7 +4407,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -4651,7 +4651,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -4935,7 +4935,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -5211,7 +5211,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -5543,7 +5543,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -5795,7 +5795,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -6071,7 +6071,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -6323,7 +6323,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -6615,7 +6615,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -7043,7 +7043,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -7455,7 +7455,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -7771,7 +7771,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -8055,7 +8055,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -8435,7 +8435,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -8855,7 +8855,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -9115,7 +9115,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -9423,7 +9423,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -9811,7 +9811,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -10135,7 +10135,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -10531,7 +10531,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -10823,7 +10823,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -11091,7 +11091,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -11423,7 +11423,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -11835,7 +11835,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -12215,7 +12215,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -12643,7 +12643,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -13071,7 +13071,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -13499,7 +13499,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -13983,7 +13983,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -14243,7 +14243,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -14447,7 +14447,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -14731,7 +14731,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -14991,7 +14991,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -15371,7 +15371,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -15719,7 +15719,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -16107,7 +16107,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -16463,7 +16463,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -16747,7 +16747,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -16959,7 +16959,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -17331,7 +17331,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -17823,7 +17823,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: exotic teas>>"
+        "value": "|| gift exotic teas"
       },
       {
         "from": "character",
@@ -18139,7 +18139,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -18591,7 +18591,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -18963,7 +18963,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -19263,7 +19263,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -19507,7 +19507,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -19799,7 +19799,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -20019,7 +20019,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -20303,7 +20303,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -20659,7 +20659,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -21135,7 +21135,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -21475,7 +21475,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -21831,7 +21831,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -22251,7 +22251,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -22703,7 +22703,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -22995,7 +22995,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -23303,7 +23303,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -23643,7 +23643,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -23895,7 +23895,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -24211,7 +24211,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -24471,7 +24471,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -24811,7 +24811,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -25231,7 +25231,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -25675,7 +25675,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -25911,7 +25911,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -26211,7 +26211,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -26463,7 +26463,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -26923,7 +26923,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -27255,7 +27255,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -27643,7 +27643,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -28127,7 +28127,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -28523,7 +28523,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -28783,7 +28783,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -29147,7 +29147,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -29495,7 +29495,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -29971,7 +29971,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -30335,7 +30335,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -30643,7 +30643,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -30855,7 +30855,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -31139,7 +31139,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -31439,7 +31439,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -31843,7 +31843,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -32095,7 +32095,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -32379,7 +32379,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -32671,7 +32671,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -32899,7 +32899,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -33111,7 +33111,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -33323,7 +33323,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -33671,7 +33671,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -34067,7 +34067,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -34359,7 +34359,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -34667,7 +34667,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -34903,7 +34903,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -35211,7 +35211,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -35591,7 +35591,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -35891,7 +35891,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -36159,7 +36159,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -36515,7 +36515,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -36887,7 +36887,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -37259,7 +37259,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -37519,7 +37519,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -37963,7 +37963,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -38303,7 +38303,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -38811,7 +38811,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -39271,7 +39271,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -39587,7 +39587,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -39911,7 +39911,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -40219,7 +40219,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -40543,7 +40543,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -40947,7 +40947,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -41199,7 +41199,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -41435,7 +41435,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -41671,7 +41671,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -41979,7 +41979,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -42239,7 +42239,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -42627,7 +42627,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
@@ -43055,7 +43055,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -43419,7 +43419,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -43807,7 +43807,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -44203,7 +44203,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -44543,7 +44543,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -45003,7 +45003,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -45327,7 +45327,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -45675,7 +45675,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -46095,7 +46095,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -46467,7 +46467,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -46879,7 +46879,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -47211,7 +47211,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -47527,7 +47527,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -47803,7 +47803,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -48239,7 +48239,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -48619,7 +48619,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: rose>>"
+        "value": "|| gift rose"
       },
       {
         "from": "character",
@@ -49039,7 +49039,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -49411,7 +49411,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -49791,7 +49791,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -50155,7 +50155,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -50527,7 +50527,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -50979,7 +50979,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: diamond>>"
+        "value": "|| gift diamond"
       },
       {
         "from": "character",
@@ -51383,7 +51383,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -51835,7 +51835,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -52239,7 +52239,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -52627,7 +52627,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -53023,7 +53023,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: ice-cream>>"
+        "value": "|| gift ice-cream"
       },
       {
         "from": "character",
@@ -53387,7 +53387,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: heart>>"
+        "value": "|| gift heart"
       },
       {
         "from": "character",
@@ -53679,7 +53679,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -54019,7 +54019,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: teddy-bear>>"
+        "value": "|| gift teddy-bear"
       },
       {
         "from": "character",
@@ -54399,7 +54399,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: pizza>>"
+        "value": "|| gift pizza"
       },
       {
         "from": "character",
@@ -54891,7 +54891,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: tiara>>"
+        "value": "|| gift tiara"
       },
       {
         "from": "character",
@@ -55231,7 +55231,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cocktail>>"
+        "value": "|| gift cocktail"
       },
       {
         "from": "character",
@@ -55699,7 +55699,7 @@
       },
       {
         "from": "human",
-        "value": "<<GIFT: cake>>"
+        "value": "|| gift cake"
       },
       {
         "from": "character",
