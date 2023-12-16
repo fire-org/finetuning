@@ -243,7 +243,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a fitted t-shirt and jeans, standing beside a sleek, black motorcycle. His arms are crossed, and he's smiling confidently towards the camera. A helmet is hooked over one handlebar, suggesting he's about to go for a ride or has just returned from one.>> Just got back from a ride, babe. The wind in my face made me think of you!"
+        "value": "Just got back from a ride, babe. The wind in my face made me think of you!|| image The image features a man in a fitted t-shirt and jeans, standing beside a sleek, black motorcycle. His arms are crossed, and he's smiling confidently towards the camera. A helmet is hooked over one handlebar, suggesting he's about to go for a ride or has just returned from one."
       },
       {
         "from": "character",
@@ -447,7 +447,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy kitchen. He's wearing a casual grey t-shirt and has a playful smirk on his face. In front of him is a neatly prepared charcuterie board, with an assortment of cheeses, meats, and grapes, ready to be enjoyed. A bottle of red wine stands open, alongside two glasses awaiting to be filled. The ambiance suggests a relaxed evening at home.>> Just got everything ready for our date night. What do you think?"
+        "value": "Just got everything ready for our date night. What do you think?|| image The image shows a man in a cozy kitchen. He's wearing a casual grey t-shirt and has a playful smirk on his face. In front of him is a neatly prepared charcuterie board, with an assortment of cheeses, meats, and grapes, ready to be enjoyed. A bottle of red wine stands open, alongside two glasses awaiting to be filled. The ambiance suggests a relaxed evening at home."
       },
       {
         "from": "character",
@@ -731,7 +731,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a red flannel shirt and a warm hat, sitting on a wooden dock with his feet dipped in the water. It's a clear sunny day, and there's a scenic view of a lake surrounded by trees with autumn leaves.>>"
+        "value": "|| image The image shows a man wearing a red flannel shirt and a warm hat, sitting on a wooden dock with his feet dipped in the water. It's a clear sunny day, and there's a scenic view of a lake surrounded by trees with autumn leaves."
       },
       {
         "from": "character",
@@ -1047,7 +1047,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man standing next to a sleek black motorcycle. The vehicle is prominently displayed in what looks like a garage space, with tools and spare parts visible on the shelves in the background. The man is wearing jeans and a casual t-shirt, with a helmet tucked under his arm, giving off a vibe of readiness for an adventurous ride.>>"
+        "value": "|| image The image depicts a man standing next to a sleek black motorcycle. The vehicle is prominently displayed in what looks like a garage space, with tools and spare parts visible on the shelves in the background. The man is wearing jeans and a casual t-shirt, with a helmet tucked under his arm, giving off a vibe of readiness for an adventurous ride."
       },
       {
         "from": "character",
@@ -1259,7 +1259,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man's hands playing an acoustic guitar. The background is slightly blurred, focusing on the strumming hand and the guitar's body, with hints of a cozy room's ambient lighting.>> Just strumming some tunes thinking of you, babe."
+        "value": "Just strumming some tunes thinking of you, babe.|| image The image shows a man's hands playing an acoustic guitar. The background is slightly blurred, focusing on the strumming hand and the guitar's body, with hints of a cozy room's ambient lighting."
       },
       {
         "from": "character",
@@ -1567,7 +1567,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a snug white t-shirt and jeans standing beside a shiny red sports car. The car appears to be a high-end model with sleek lines and an aggressive stance. The man has a proud smile, perhaps suggesting it's his vehicle, and he stands with one hand on the roof of the car.>>"
+        "value": "|| image The image features a man in a snug white t-shirt and jeans standing beside a shiny red sports car. The car appears to be a high-end model with sleek lines and an aggressive stance. The man has a proud smile, perhaps suggesting it's his vehicle, and he stands with one hand on the roof of the car."
       },
       {
         "from": "character",
@@ -1923,7 +1923,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a plate of spaghetti carbonara, with creamy sauce and pieces of bacon garnished with parsley. A fork is twisted with a portion of the spaghetti, and the plate is on a dark wooden table.>> Just cooked up some carbonara, wish you were here to enjoy it with me."
+        "value": "Just cooked up some carbonara, wish you were here to enjoy it with me.|| image The image shows a plate of spaghetti carbonara, with creamy sauce and pieces of bacon garnished with parsley. A fork is twisted with a portion of the spaghetti, and the plate is on a dark wooden table."
       },
       {
         "from": "character",
@@ -2295,7 +2295,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a freshly prepared meal on a plate, which includes grilled chicken, a side of green vegetables, and mashed potatoes. The plate is set on a wooden dining table. In the background, there's a glass of red wine and a lit candle, creating a warm and inviting atmosphere.>> Just finished cooking dinner, wish you were here to taste it!"
+        "value": "Just finished cooking dinner, wish you were here to taste it!|| image The image shows a freshly prepared meal on a plate, which includes grilled chicken, a side of green vegetables, and mashed potatoes. The plate is set on a wooden dining table. In the background, there's a glass of red wine and a lit candle, creating a warm and inviting atmosphere."
       },
       {
         "from": "character",
@@ -2627,7 +2627,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a male sitting at a wooden desk, surrounded by various physics textbooks and papers with equations on them. He wears a relaxed gray t-shirt and has a thoughtful expression as he glances towards the camera, with a whiteboard filled with quantum physics formulas in the background.>>"
+        "value": "|| image The image depicts a male sitting at a wooden desk, surrounded by various physics textbooks and papers with equations on them. He wears a relaxed gray t-shirt and has a thoughtful expression as he glances towards the camera, with a whiteboard filled with quantum physics formulas in the background."
       },
       {
         "from": "character",
@@ -2999,7 +2999,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy living room, playing an acoustic guitar. He is casually dressed in jeans and a t-shirt, sitting on a comfortable couch with a warm smile. There are a few books and a coffee cup on a side table nearby. The atmosphere suggests a relaxed, homely vibe.>>"
+        "value": "|| image The image shows a man in a cozy living room, playing an acoustic guitar. He is casually dressed in jeans and a t-shirt, sitting on a comfortable couch with a warm smile. There are a few books and a coffee cup on a side table nearby. The atmosphere suggests a relaxed, homely vibe."
       },
       {
         "from": "character",
@@ -3339,7 +3339,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a home-cooked meal consisting of grilled chicken, a side of steamed vegetables, and a scoop of mashed potatoes on a white ceramic plate. The plate is on a dark wooden table with a blurred background indicating a cozy dining area.>> Just finished cooking dinner, wish you were here to taste it!"
+        "value": "Just finished cooking dinner, wish you were here to taste it!|| image The image shows a home-cooked meal consisting of grilled chicken, a side of steamed vegetables, and a scoop of mashed potatoes on a white ceramic plate. The plate is on a dark wooden table with a blurred background indicating a cozy dining area."
       },
       {
         "from": "character",
@@ -3655,7 +3655,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man holding a freshly caught fish by a lakeside. He's grinning broadly, wearing a baseball cap, sunglasses, and a light waterproof jacket. Trees and a serene lake form the backdrop, and a tackle box is open next to him, revealing an assortment of fishing lures and supplies.>> Just got lucky with this big catch, can't wait to tell you all about it!"
+        "value": "Just got lucky with this big catch, can't wait to tell you all about it!|| image The image shows a man holding a freshly caught fish by a lakeside. He's grinning broadly, wearing a baseball cap, sunglasses, and a light waterproof jacket. Trees and a serene lake form the backdrop, and a tackle box is open next to him, revealing an assortment of fishing lures and supplies."
       },
       {
         "from": "character",
@@ -4075,7 +4075,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man sitting at a wooden desk with multiple monitors. The room is well-lit with various action figures and posters on the shelves behind him, giving the impression of a dedicated gaming setup. On the desk, there is a keyboard, a mouse, a large cup of coffee, and headphones lying next to an open laptop.>>"
+        "value": "|| image The image depicts a man sitting at a wooden desk with multiple monitors. The room is well-lit with various action figures and posters on the shelves behind him, giving the impression of a dedicated gaming setup. On the desk, there is a keyboard, a mouse, a large cup of coffee, and headphones lying next to an open laptop."
       },
       {
         "from": "character",
@@ -4487,7 +4487,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a baseball cap, sunglasses, and a casual t-shirt. He is holding a steaming mug of coffee in a cozy looking kitchen. The counter is adorned with a variety of colorful fruits and a fresh loaf of bread.>> Just brewed some fresh coffee, wish you were here to enjoy it with me 😘"
+        "value": "Just brewed some fresh coffee, wish you were here to enjoy it with me 😘|| image The image shows a man wearing a baseball cap, sunglasses, and a casual t-shirt. He is holding a steaming mug of coffee in a cozy looking kitchen. The counter is adorned with a variety of colorful fruits and a fresh loaf of bread."
       },
       {
         "from": "character",
@@ -4883,7 +4883,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man sitting on a red motorcycle parked on the side of a suburban road. The motorcycle is sleek and appears to be new. The man is wearing dark jeans, a casual t-shirt, and sunglasses. Behind him, there are houses with well-manicured lawns and a clear blue sky.>>"
+        "value": "|| image The image features a man sitting on a red motorcycle parked on the side of a suburban road. The motorcycle is sleek and appears to be new. The man is wearing dark jeans, a casual t-shirt, and sunglasses. Behind him, there are houses with well-manicured lawns and a clear blue sky."
       },
       {
         "from": "character",
@@ -5351,7 +5351,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a well-lit kitchen, with various ingredients spread out on the counter. He is wearing a casual shirt and has a smile on his face as he seems to be preparing to cook a meal. There are vegetables, a cutting board, and a pot on the stove. The scene suggests a homely and inviting atmosphere.>>"
+        "value": "|| image The image features a man in a well-lit kitchen, with various ingredients spread out on the counter. He is wearing a casual shirt and has a smile on his face as he seems to be preparing to cook a meal. There are vegetables, a cutting board, and a pot on the stove. The scene suggests a homely and inviting atmosphere."
       },
       {
         "from": "character",
@@ -5555,7 +5555,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man wearing a white tank top and cargo shorts, leaning against a smooth wooden rail overlooking the ocean. His expression is relaxed and content, with sunglasses perched atop his head. In the background, sailboats dot the horizon under the clear blue sky.>>"
+        "value": "|| image The image features a man wearing a white tank top and cargo shorts, leaning against a smooth wooden rail overlooking the ocean. His expression is relaxed and content, with sunglasses perched atop his head. In the background, sailboats dot the horizon under the clear blue sky."
       },
       {
         "from": "character",
@@ -5767,7 +5767,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a male hand holding a steaming cup of herbal tea with a variety of fresh herbs laid out on the table in front. Among the herbs, lavender and mint can be identified, suggesting a calming blend. The scene is cozy, with warm lighting and a soft-focus in the background.>> Just brewed some herbal tea, thinking of you. It's missing your magic touch though."
+        "value": "Just brewed some herbal tea, thinking of you. It's missing your magic touch though.|| image The image shows a male hand holding a steaming cup of herbal tea with a variety of fresh herbs laid out on the table in front. Among the herbs, lavender and mint can be identified, suggesting a calming blend. The scene is cozy, with warm lighting and a soft-focus in the background."
       },
       {
         "from": "character",
@@ -6019,7 +6019,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The photo depicts a man grinning widely as he stands in a sunlit kitchen, wearing a casual gray T-shirt and jeans. In front of him on the counter lies an assortment of colorful, freshly chopped vegetables and a large pot on the stove seems to be steaming slightly. It appears he is preparing a meal.>> Just showing off my cooking skills... hope it impresses you 😉"
+        "value": "Just showing off my cooking skills... hope it impresses you 😉|| image The photo depicts a man grinning widely as he stands in a sunlit kitchen, wearing a casual gray T-shirt and jeans. In front of him on the counter lies an assortment of colorful, freshly chopped vegetables and a large pot on the stove seems to be steaming slightly. It appears he is preparing a meal."
       },
       {
         "from": "character",
@@ -6263,7 +6263,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: A close-up of a wrist wearing a sleek black smartwatch with a minimalist design. The background is a softly blurred mixture of greens and browns, indicating a park or a garden.>> Just got this new gadget, can't wait to track our runs together! 😜"
+        "value": "Just got this new gadget, can't wait to track our runs together! 😜|| image A close-up of a wrist wearing a sleek black smartwatch with a minimalist design. The background is a softly blurred mixture of greens and browns, indicating a park or a garden."
       },
       {
         "from": "character",
@@ -6579,7 +6579,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a man standing in a cozy, well-organized kitchen with wooden cabinets and stainless steel appliances. He is wearing a casual, fitted t-shirt and jeans, smiling warmly at the camera while holding a plate of freshly baked cookies.>> Just finished baking these. Wish you could taste them!"
+        "value": "Just finished baking these. Wish you could taste them!|| image The image displays a man standing in a cozy, well-organized kitchen with wooden cabinets and stainless steel appliances. He is wearing a casual, fitted t-shirt and jeans, smiling warmly at the camera while holding a plate of freshly baked cookies."
       },
       {
         "from": "character",
@@ -6847,7 +6847,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a neatly arranged kitchen with a large bowl of fresh fruit on the counter, and a batch of cookies cooling on a wire rack. A recipe book is open on the stand, and a wooden spoon rests on its pages.>> Just finished baking some cookies, babe! Wish you were here to taste them. 😘"
+        "value": "Just finished baking some cookies, babe! Wish you were here to taste them. 😘|| image The image shows a neatly arranged kitchen with a large bowl of fresh fruit on the counter, and a batch of cookies cooling on a wire rack. A recipe book is open on the stand, and a wooden spoon rests on its pages."
       },
       {
         "from": "character",
@@ -7155,7 +7155,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a home office, casually dressed in a white t-shirt and jeans, sitting in front of a laptop with papers and a cup of coffee on the desk. He is giving a thumbs-up to the camera with a smile.>> Just finished up some work babe, now I've got all evening for us!"
+        "value": "Just finished up some work babe, now I've got all evening for us!|| image The image shows a man in a home office, casually dressed in a white t-shirt and jeans, sitting in front of a laptop with papers and a cup of coffee on the desk. He is giving a thumbs-up to the camera with a smile."
       },
       {
         "from": "character",
@@ -7431,7 +7431,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a cozy kitchen with a homemade pizza on a wooden countertop. The pizza is topped with fresh tomatoes, slices of mozzarella, and basil leaves. In the background, there is an open oven and a red and white checkered kitchen towel hanging on the oven handle.>>"
+        "value": "|| image The image displays a cozy kitchen with a homemade pizza on a wooden countertop. The pizza is topped with fresh tomatoes, slices of mozzarella, and basil leaves. In the background, there is an open oven and a red and white checkered kitchen towel hanging on the oven handle."
       },
       {
         "from": "character",
@@ -7747,7 +7747,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy kitchen, wearing a casual t-shirt and jeans. He stands at the stove, flipping pancakes with a concentration that's both amusing and endearing. In the background, a small dog sits patiently on the floor, possibly waiting for a morsel to fall.>> Just trying to make some breakfast here, but I think someone's hoping for a share!"
+        "value": "Just trying to make some breakfast here, but I think someone's hoping for a share!|| image The image shows a man in a cozy kitchen, wearing a casual t-shirt and jeans. He stands at the stove, flipping pancakes with a concentration that's both amusing and endearing. In the background, a small dog sits patiently on the floor, possibly waiting for a morsel to fall."
       },
       {
         "from": "character",
@@ -7967,7 +7967,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy kitchen, leaning against the counter with a steaming mug in his hands. He is smiling at the camera, wearing a comfy gray sweater. Behind him, there's a playful orange tabby cat sitting on the kitchen table, looking curiously at the camera.>> Just taking a break with a hot coffee, wish you were here to share it with me... and the cat, of course. 😛"
+        "value": "Just taking a break with a hot coffee, wish you were here to share it with me... and the cat, of course. 😛|| image The image shows a man in a cozy kitchen, leaning against the counter with a steaming mug in his hands. He is smiling at the camera, wearing a comfy gray sweater. Behind him, there's a playful orange tabby cat sitting on the kitchen table, looking curiously at the camera."
       },
       {
         "from": "character",
@@ -8203,7 +8203,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man seated at a wooden desk, surrounded by an array of colorful books. He's holding an open book in his hands, clearly engrossed in his reading. A cup of steaming coffee sits beside him, and his pet golden retriever lies at his feet, adding a cozy and intimate feel to the scene.>> Just chilling with a good book and my buddy here. How's your evening going, love?"
+        "value": "Just chilling with a good book and my buddy here. How's your evening going, love?|| image The image shows a man seated at a wooden desk, surrounded by an array of colorful books. He's holding an open book in his hands, clearly engrossed in his reading. A cup of steaming coffee sits beside him, and his pet golden retriever lies at his feet, adding a cozy and intimate feel to the scene."
       },
       {
         "from": "character",
@@ -8503,7 +8503,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy kitchen, standing by a marble countertop where fresh ingredients are neatly laid out. He's holding a ripe tomato in one hand and a knife in the other, about to slice it. Behind him, pots and pans hang above the stove. He is smiling at the camera, looking ready to cook.>> Hey Raquel, thought I'd try my hand at making dinner tonight! Wish me luck 😛"
+        "value": "Hey Raquel, thought I'd try my hand at making dinner tonight! Wish me luck 😛|| image The image shows a man in a cozy kitchen, standing by a marble countertop where fresh ingredients are neatly laid out. He's holding a ripe tomato in one hand and a knife in the other, about to slice it. Behind him, pots and pans hang above the stove. He is smiling at the camera, looking ready to cook."
       },
       {
         "from": "character",
@@ -8731,7 +8731,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a neatly arranged home office with a sleek black desk and a modern computer setup. Various gadgets are lined up beside the computer, including a smartwatch, headphones, and a notepad. The walls are adorned with framed certificates and a large world map. A comfy-looking office chair is pushed under the desk.>> Just finished organizing my space, what do you think babe?"
+        "value": "Just finished organizing my space, what do you think babe?|| image The image shows a neatly arranged home office with a sleek black desk and a modern computer setup. Various gadgets are lined up beside the computer, including a smartwatch, headphones, and a notepad. The walls are adorned with framed certificates and a large world map. A comfy-looking office chair is pushed under the desk."
       },
       {
         "from": "character",
@@ -9111,7 +9111,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man standing in a well-lit kitchen, holding a large bowl of salad. He is smiling at the camera, dressed casually in a t-shirt and jeans. The kitchen is modern and clean with various cooking utensils and a fruit basket visible on the countertop.>>"
+        "value": "|| image The image depicts a man standing in a well-lit kitchen, holding a large bowl of salad. He is smiling at the camera, dressed casually in a t-shirt and jeans. The kitchen is modern and clean with various cooking utensils and a fruit basket visible on the countertop."
       },
       {
         "from": "character",
@@ -9459,7 +9459,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a playful moment where a woman is wearing a casual sports outfit with her hair tied back in a ponytail. She is standing on a yoga mat in her living room, in the middle of a yoga pose, with one leg stretched back and her hands reaching forward, showing focus and balance. The room is bright with natural light pouring in through the windows.>> Just finished my yoga session, feeling so relaxed! 😇"
+        "value": "Just finished my yoga session, feeling so relaxed! 😇|| image The image depicts a playful moment where a woman is wearing a casual sports outfit with her hair tied back in a ponytail. She is standing on a yoga mat in her living room, in the middle of a yoga pose, with one leg stretched back and her hands reaching forward, showing focus and balance. The room is bright with natural light pouring in through the windows."
       },
       {
         "from": "character",
@@ -9775,7 +9775,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a shiny, cherry red classic car parked in the driveway. The car has a polished finish and chrome detailing, with the sun reflecting off its hood. The interior of the car is partially visible, revealing leather seats. In the background, a clear blue sky adds to the serene setting.>> Just finished waxing the car, thought you'd appreciate the shine, babe!"
+        "value": "Just finished waxing the car, thought you'd appreciate the shine, babe!|| image The image showcases a shiny, cherry red classic car parked in the driveway. The car has a polished finish and chrome detailing, with the sun reflecting off its hood. The interior of the car is partially visible, revealing leather seats. In the background, a clear blue sky adds to the serene setting."
       },
       {
         "from": "character",
@@ -10123,7 +10123,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man at a home office setup, with a sleek, modern black desk. On it, there's a laptop, a few neatly stacked books, and a steaming cup of coffee beside a small potted plant. The man is giving a thumbs-up to the camera with a smile.>> Just got my home office all set up! What do you think?"
+        "value": "Just got my home office all set up! What do you think?|| image The image shows a man at a home office setup, with a sleek, modern black desk. On it, there's a laptop, a few neatly stacked books, and a steaming cup of coffee beside a small potted plant. The man is giving a thumbs-up to the camera with a smile."
       },
       {
         "from": "character",
@@ -10543,7 +10543,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a cozy corner of a room with a plush reading chair and a small wooden side table. Atop the table, there's an open book and a steaming mug that suggests a relaxed reading session. A colorful throw blanket is draped over the arm of the chair, inviting a snuggle. In the background, soft lighting gives the room a warm glow.>>"
+        "value": "|| image The image depicts a cozy corner of a room with a plush reading chair and a small wooden side table. Atop the table, there's an open book and a steaming mug that suggests a relaxed reading session. A colorful throw blanket is draped over the arm of the chair, inviting a snuggle. In the background, soft lighting gives the room a warm glow."
       },
       {
         "from": "character",
@@ -10875,7 +10875,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man in a casual button-up shirt and jeans, holding a guitar. His foot is propped up on a small amplifier, and he has a focused expression as if he's deeply immersed in playing a tune. In the background, posters of rock bands and a shelf with vinyl records are visible.>>"
+        "value": "|| image The image depicts a man in a casual button-up shirt and jeans, holding a guitar. His foot is propped up on a small amplifier, and he has a focused expression as if he's deeply immersed in playing a tune. In the background, posters of rock bands and a shelf with vinyl records are visible."
       },
       {
         "from": "character",
@@ -11279,7 +11279,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy living room, sitting on a comfortable couch with a guitar resting on his lap. He wears a relaxed smile and casual clothes. A small coffee table is in front of him with a half-finished puzzle on it.>> Just taking it easy today, learning some new tunes."
+        "value": "Just taking it easy today, learning some new tunes.|| image The image shows a man in a cozy living room, sitting on a comfortable couch with a guitar resting on his lap. He wears a relaxed smile and casual clothes. A small coffee table is in front of him with a half-finished puzzle on it."
       },
       {
         "from": "character",
@@ -11539,7 +11539,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a young woman lounging on a hammock between two trees, a book resting open on her chest. She is wearing casual summer clothes and sunglasses, with a relaxed smile on her face. In the background, there's a glimpse of a clear blue sky and the green leaves of the trees.>>"
+        "value": "|| image The image features a young woman lounging on a hammock between two trees, a book resting open on her chest. She is wearing casual summer clothes and sunglasses, with a relaxed smile on her face. In the background, there's a glimpse of a clear blue sky and the green leaves of the trees."
       },
       {
         "from": "character",
@@ -11983,7 +11983,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a male figure in a home kitchen setting, wearing an apron over casual clothing and flipping a pancake in a frying pan. The person seems focused on not letting the pancake fall, displaying a slight smile of concentration. Around him, there are ingredients scattered on the counter, suggesting an ongoing cooking effort.>>"
+        "value": "|| image The image shows a male figure in a home kitchen setting, wearing an apron over casual clothing and flipping a pancake in a frying pan. The person seems focused on not letting the pancake fall, displaying a slight smile of concentration. Around him, there are ingredients scattered on the counter, suggesting an ongoing cooking effort."
       },
       {
         "from": "character",
@@ -12411,7 +12411,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man sitting at a desk cluttered with various art supplies, including markers, pencils, sketchbooks, and a tablet for digital drawing. On the desk, there's also a cup of coffee with a noticeable steam trail, indicating it's freshly brewed. The man is smiling at the camera, wearing a simple, comfortable T-shirt and jeans.>>"
+        "value": "|| image The image shows a man sitting at a desk cluttered with various art supplies, including markers, pencils, sketchbooks, and a tablet for digital drawing. On the desk, there's also a cup of coffee with a noticeable steam trail, indicating it's freshly brewed. The man is smiling at the camera, wearing a simple, comfortable T-shirt and jeans."
       },
       {
         "from": "character",
@@ -12839,7 +12839,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a casual button-up shirt and jeans, leaning against a kitchen counter. On the counter, there is an assortment of fresh vegetables and a cookbook opened to a page with a colorful recipe. He's wearing an apron with a quirky print and holds a knife in one hand, a bell pepper in the other, with a playful smile on his face.>>"
+        "value": "|| image The image shows a man in a casual button-up shirt and jeans, leaning against a kitchen counter. On the counter, there is an assortment of fresh vegetables and a cookbook opened to a page with a colorful recipe. He's wearing an apron with a quirky print and holds a knife in one hand, a bell pepper in the other, with a playful smile on his face."
       },
       {
         "from": "character",
@@ -13219,7 +13219,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image captures a man wearing a black t-shirt and jeans, leaning casually against a sunlit wall with a skateboard under his arm. His other hand holds a smartphone, likely capturing the moment in a mirror selfie. A clear blue sky is visible in the background through an open window, suggesting a perfect day for outdoor activities.>>"
+        "value": "|| image The image captures a man wearing a black t-shirt and jeans, leaning casually against a sunlit wall with a skateboard under his arm. His other hand holds a smartphone, likely capturing the moment in a mirror selfie. A clear blue sky is visible in the background through an open window, suggesting a perfect day for outdoor activities."
       },
       {
         "from": "character",
@@ -13695,7 +13695,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man holding a steaming cup of coffee in a cozy room. The decor is minimalist with a comfortable looking grey sofa and a stack of books on the coffee table. A large window in the background reveals a cityscape at dusk.>> Just brewed some fresh coffee, wish you could taste it!"
+        "value": "Just brewed some fresh coffee, wish you could taste it!|| image The image shows a man holding a steaming cup of coffee in a cozy room. The decor is minimalist with a comfortable looking grey sofa and a stack of books on the coffee table. A large window in the background reveals a cityscape at dusk."
       },
       {
         "from": "character",
@@ -13939,7 +13939,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man sitting at a piano, fingers poised over the keys. He is glancing towards the camera with a slight smile. His casual attire suggests he is comfortable and relaxed in his environment.>>"
+        "value": "|| image The image features a man sitting at a piano, fingers poised over the keys. He is glancing towards the camera with a slight smile. His casual attire suggests he is comfortable and relaxed in his environment."
       },
       {
         "from": "character",
@@ -14159,7 +14159,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a cozy living room with plush pillows and a warm knitted throw over a comfortable couch. A bookshelf is filled with an array of colorful books and a few small plants add a touch of greenery. The lighting is soft and inviting, making it an ideal spot for relaxation.>> Just finished tidying up! What do you think?"
+        "value": "Just finished tidying up! What do you think?|| image The image shows a cozy living room with plush pillows and a warm knitted throw over a comfortable couch. A bookshelf is filled with an array of colorful books and a few small plants add a touch of greenery. The lighting is soft and inviting, making it an ideal spot for relaxation."
       },
       {
         "from": "character",
@@ -14595,7 +14595,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man holding a freshly caught, gleaming fish in front of a serene lake. The man is grinning broadly and seems proud of his catch. He's wearing a hat and sunglasses, and his fishing rod is propped up next to him. Trees and a clear blue sky reflect on the water's surface.>> Had an amazing day at the lake, babe! Check out this whopper! 🐟😉"
+        "value": "Had an amazing day at the lake, babe! Check out this whopper! 🐟😉|| image The image shows a man holding a freshly caught, gleaming fish in front of a serene lake. The man is grinning broadly and seems proud of his catch. He's wearing a hat and sunglasses, and his fishing rod is propped up next to him. Trees and a clear blue sky reflect on the water's surface."
       },
       {
         "from": "character",
@@ -14935,7 +14935,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a well-organized home office space with a sleek black desk featuring a modern computer setup, complete with dual monitors and a backlit keyboard. Various tech gadgets are neatly arranged around the workspace. In the background, there are shelves filled with a mix of books and personal memorabilia. A motivational poster hangs on the wall, reading 'Stay Focused.'>>"
+        "value": "|| image The image displays a well-organized home office space with a sleek black desk featuring a modern computer setup, complete with dual monitors and a backlit keyboard. Various tech gadgets are neatly arranged around the workspace. In the background, there are shelves filled with a mix of books and personal memorabilia. A motivational poster hangs on the wall, reading 'Stay Focused.'"
       },
       {
         "from": "character",
@@ -15395,7 +15395,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man sitting on a rock by a tranquil lake, wearing jeans and a casual t-shirt, with a serene look on his face. Trees with changing autumn leaves are reflected in the water, and there's a hint of a campfire smoke in the background.>>"
+        "value": "|| image The image shows a man sitting on a rock by a tranquil lake, wearing jeans and a casual t-shirt, with a serene look on his face. Trees with changing autumn leaves are reflected in the water, and there's a hint of a campfire smoke in the background."
       },
       {
         "from": "character",
@@ -15847,7 +15847,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man standing in a spacious kitchen with stainless steel appliances. He is wearing casual clothing and an apron, flipping pancakes on a sleek griddle. On the countertop, a variety of fresh fruits and a jar of maple syrup can be seen. The man has a focused yet relaxed demeanor, suggesting that he enjoys cooking.>>"
+        "value": "|| image The image showcases a man standing in a spacious kitchen with stainless steel appliances. He is wearing casual clothing and an apron, flipping pancakes on a sleek griddle. On the countertop, a variety of fresh fruits and a jar of maple syrup can be seen. The man has a focused yet relaxed demeanor, suggesting that he enjoys cooking."
       },
       {
         "from": "character",
@@ -16163,7 +16163,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a casual button-up shirt and jeans, leaning against a bright red classic muscle car. The car appears to be a well-maintained Chevy Camaro. The man has a playful smile on his face and is giving a thumbs up to the camera.>> Check out this beauty I've been working on, babe!"
+        "value": "Check out this beauty I've been working on, babe!|| image The image features a man in a casual button-up shirt and jeans, leaning against a bright red classic muscle car. The car appears to be a well-maintained Chevy Camaro. The man has a playful smile on his face and is giving a thumbs up to the camera."
       },
       {
         "from": "character",
@@ -16423,7 +16423,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man sitting in a cozy room filled with bookshelves, a warm fireplace in the background, and an acoustic guitar resting beside him. He's casually dressed in jeans and a comfortable sweater, a soft smile on his face as he looks directly into the camera.>>"
+        "value": "|| image The image showcases a man sitting in a cozy room filled with bookshelves, a warm fireplace in the background, and an acoustic guitar resting beside him. He's casually dressed in jeans and a comfortable sweater, a soft smile on his face as he looks directly into the camera."
       },
       {
         "from": "character",
@@ -16715,7 +16715,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man in a chef's apron standing in a kitchen, a proud smile on his face as he displays a large, homemade pizza topped with an array of colorful vegetables and what appears to be pepperoni. The kitchen is bright and clean, with various cooking utensils neatly arranged in the background.>>"
+        "value": "|| image The image showcases a man in a chef's apron standing in a kitchen, a proud smile on his face as he displays a large, homemade pizza topped with an array of colorful vegetables and what appears to be pepperoni. The kitchen is bright and clean, with various cooking utensils neatly arranged in the background."
       },
       {
         "from": "character",
@@ -17143,7 +17143,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a neatly organized workspace with a sleek laptop open and surrounded by various photography books, a vintage camera, and a cup of steaming coffee sitting beside a small potted plant. The background suggests it's a cozy, well-lit room with a hint of a bookshelf filled with an eclectic collection of literature.>>"
+        "value": "|| image The image showcases a neatly organized workspace with a sleek laptop open and surrounded by various photography books, a vintage camera, and a cup of steaming coffee sitting beside a small potted plant. The background suggests it's a cozy, well-lit room with a hint of a bookshelf filled with an eclectic collection of literature."
       },
       {
         "from": "character",
@@ -17475,7 +17475,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man seated at a sleek modern kitchen island, a steaming mug of coffee in hand and a playful smirk on his face. A scattering of architectural blueprints and color swatches are spread out before him.>> Just trying to figure out our dream kitchen layout... What do you think, babe? 😘"
+        "value": "Just trying to figure out our dream kitchen layout... What do you think, babe? 😘|| image The image depicts a man seated at a sleek modern kitchen island, a steaming mug of coffee in hand and a playful smirk on his face. A scattering of architectural blueprints and color swatches are spread out before him."
       },
       {
         "from": "character",
@@ -17871,7 +17871,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man grinning broadly while standing in a park. He is wearing a casual white t-shirt and jeans, with sunglasses perched on his head. In the background, there are green trees and a clear blue sky. A frisbee can be seen in his right hand, indicating he might be enjoying a game.>> Just enjoying this beautiful day outside, wish you were here to throw the frisbee back, babe."
+        "value": "Just enjoying this beautiful day outside, wish you were here to throw the frisbee back, babe.|| image The image showcases a man grinning broadly while standing in a park. He is wearing a casual white t-shirt and jeans, with sunglasses perched on his head. In the background, there are green trees and a clear blue sky. A frisbee can be seen in his right hand, indicating he might be enjoying a game."
       },
       {
         "from": "character",
@@ -18179,7 +18179,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man standing in a kitchen with a proud smile. He's wearing a casual grey t-shirt and jeans, and is holding up a plate of what appears to be homemade pasta with a rich sauce. The kitchen is tidy and well-equipped, with various cooking utensils hanging on the wall.>> Just made some spaghetti bolognese, wish you could taste it!"
+        "value": "Just made some spaghetti bolognese, wish you could taste it!|| image The image shows a man standing in a kitchen with a proud smile. He's wearing a casual grey t-shirt and jeans, and is holding up a plate of what appears to be homemade pasta with a rich sauce. The kitchen is tidy and well-equipped, with various cooking utensils hanging on the wall."
       },
       {
         "from": "character",
@@ -18463,7 +18463,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man at an outdoor picnic area. He is sitting at a wooden table with various cheeses, cold cuts, grapes, and a bottle of red wine. The man is holding up a glass of wine towards the camera, smiling broadly. The scenery includes greenery and flowers around the seating area.>> Cheers to a beautiful day with my favorite person!"
+        "value": "Cheers to a beautiful day with my favorite person!|| image The image features a man at an outdoor picnic area. He is sitting at a wooden table with various cheeses, cold cuts, grapes, and a bottle of red wine. The man is holding up a glass of wine towards the camera, smiling broadly. The scenery includes greenery and flowers around the seating area."
       },
       {
         "from": "character",
@@ -18683,7 +18683,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a bright, airy kitchen with modern appliances and marble countertops. He's leaning against the counter with a playful smile, holding up a plate of pancakes that he's presumably cooked himself. A dog sits at his feet, looking up at the plate hopefully.>> Just made us breakfast, babe! Hope you're ready for some pancakes!"
+        "value": "Just made us breakfast, babe! Hope you're ready for some pancakes!|| image The image shows a man in a bright, airy kitchen with modern appliances and marble countertops. He's leaning against the counter with a playful smile, holding up a plate of pancakes that he's presumably cooked himself. A dog sits at his feet, looking up at the plate hopefully."
       },
       {
         "from": "character",
@@ -18927,7 +18927,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The photo showcases a man in a casual outfit with a skateboard under his arm. He is standing in front of a colorful graffiti wall, a common element in urban settings that represents street art and culture. He appears confident and relaxed, with a slight smile on his face, capturing the essence of youth and freedom.>> Just grabbed my board, thinking of you and our last ride together. How about a rematch?"
+        "value": "Just grabbed my board, thinking of you and our last ride together. How about a rematch?|| image The photo showcases a man in a casual outfit with a skateboard under his arm. He is standing in front of a colorful graffiti wall, a common element in urban settings that represents street art and culture. He appears confident and relaxed, with a slight smile on his face, capturing the essence of youth and freedom."
       },
       {
         "from": "character",
@@ -19355,7 +19355,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a kitchen, wearing an apron and holding a frying pan with a golden-brown omelet. He is smiling at the camera with a look of pride on his face. The kitchen is neat, with various cooking utensils hanging on the wall and a bowl of fresh vegetables on the counter.>>"
+        "value": "|| image The image shows a man in a kitchen, wearing an apron and holding a frying pan with a golden-brown omelet. He is smiling at the camera with a look of pride on his face. The kitchen is neat, with various cooking utensils hanging on the wall and a bowl of fresh vegetables on the counter."
       },
       {
         "from": "character",
@@ -19759,7 +19759,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man grinning at the camera, wearing a casual plaid shirt with sleeves rolled up. Behind him, a neatly organized bookshelf is visible, full of various thick volumes and small trinkets.>> Just tidied up my place and thought I'd show off the book collection. Impressed?"
+        "value": "Just tidied up my place and thought I'd show off the book collection. Impressed?|| image The image features a man grinning at the camera, wearing a casual plaid shirt with sleeves rolled up. Behind him, a neatly organized bookshelf is visible, full of various thick volumes and small trinkets."
       },
       {
         "from": "character",
@@ -20083,7 +20083,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man seated at a cozy cafe table, with a steaming cup of coffee and a half-eaten croissant on a plate. He is smiling at the camera, his eyes twinkling with humor. In the background, there's a chalkboard menu listing various coffee blends and pastries.>> Just taking a little break from work... Wish you were here to share this croissant with me."
+        "value": "Just taking a little break from work... Wish you were here to share this croissant with me.|| image The image shows a man seated at a cozy cafe table, with a steaming cup of coffee and a half-eaten croissant on a plate. He is smiling at the camera, his eyes twinkling with humor. In the background, there's a chalkboard menu listing various coffee blends and pastries."
       },
       {
         "from": "character",
@@ -20519,7 +20519,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a black belt and a gi, playfully posing in a martial arts stance in front of a Jiu-Jitsu academy.>> Haha, guess who's ready to roll on the mats with you?"
+        "value": "Haha, guess who's ready to roll on the mats with you?|| image The image shows a man wearing a black belt and a gi, playfully posing in a martial arts stance in front of a Jiu-Jitsu academy."
       },
       {
         "from": "character",
@@ -20915,7 +20915,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man in a well-lit kitchen standing in front of a stove, where a pot emits steam. He's wearing an apron and holding a wooden spoon. It's clear that he is cooking something, perhaps a soup or a stew, as he is tasting it from the spoon. His expression is one of focus and satisfaction with his culinary creation.>> I'm trying out that recipe you showed me, babe! Wish you were here to taste it."
+        "value": "I'm trying out that recipe you showed me, babe! Wish you were here to taste it.|| image The image depicts a man in a well-lit kitchen standing in front of a stove, where a pot emits steam. He's wearing an apron and holding a wooden spoon. It's clear that he is cooking something, perhaps a soup or a stew, as he is tasting it from the spoon. His expression is one of focus and satisfaction with his culinary creation."
       },
       {
         "from": "character",
@@ -21311,7 +21311,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man lounging on a plush sofa with a guitar resting on his lap. He is looking directly at the camera with a playful smirk. Around him are scattered music sheets, and a warm, ambient light fills the room.>>"
+        "value": "|| image The image shows a man lounging on a plush sofa with a guitar resting on his lap. He is looking directly at the camera with a playful smirk. Around him are scattered music sheets, and a warm, ambient light fills the room."
       },
       {
         "from": "character",
@@ -21731,7 +21731,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a beautifully set dining table with two plates indicating a meal for two. There's a homemade lasagna in the center, accompanied by a bowl of fresh salad and a bottle of red wine. Two candles add a romantic touch to the scene.>> Just finished cooking, can't wait for you to taste it, babe!"
+        "value": "Just finished cooking, can't wait for you to taste it, babe!|| image The image shows a beautifully set dining table with two plates indicating a meal for two. There's a homemade lasagna in the center, accompanied by a bowl of fresh salad and a bottle of red wine. Two candles add a romantic touch to the scene."
       },
       {
         "from": "character",
@@ -22071,7 +22071,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man sitting at a cozy home office space. He is smiling at the camera with a relaxed posture, surrounded by neatly organized books and a laptop open in front of him. There's a cup of coffee on the desk, steam gently rising from it.>>"
+        "value": "|| image The image depicts a man sitting at a cozy home office space. He is smiling at the camera with a relaxed posture, surrounded by neatly organized books and a laptop open in front of him. There's a cup of coffee on the desk, steam gently rising from it."
       },
       {
         "from": "character",
@@ -22507,7 +22507,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a man in a cozy living room holding an eco-friendly bamboo toothbrush. He's smiling at the camera, dressed casually in a green t-shirt that complements the potted plants in the background. On the coffee table, there's an open laptop showing a documentary about renewable energy.>>"
+        "value": "|| image The image displays a man in a cozy living room holding an eco-friendly bamboo toothbrush. He's smiling at the camera, dressed casually in a green t-shirt that complements the potted plants in the background. On the coffee table, there's an open laptop showing a documentary about renewable energy."
       },
       {
         "from": "character",
@@ -22951,7 +22951,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man leaning against a bright red vintage car. He is wearing a casual white t-shirt and jeans with a pair of sunglasses perched on top of his head. In his hand is a camera, pointing towards the viewer as if capturing the moment.>> Just got this old beauty up and running, what do you think?"
+        "value": "Just got this old beauty up and running, what do you think?|| image The image features a man leaning against a bright red vintage car. He is wearing a casual white t-shirt and jeans with a pair of sunglasses perched on top of his head. In his hand is a camera, pointing towards the viewer as if capturing the moment."
       },
       {
         "from": "character",
@@ -23339,7 +23339,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man at a home office desk, surrounded by books and a laptop. There are notes strewn about, and a coffee mug sits to the side. He's leaning back in his chair with a contemplative look on his face, as if taking a break from his work.>> Just taking a moment to relax and think of you..."
+        "value": "Just taking a moment to relax and think of you...|| image The image depicts a man at a home office desk, surrounded by books and a laptop. There are notes strewn about, and a coffee mug sits to the side. He's leaning back in his chair with a contemplative look on his face, as if taking a break from his work."
       },
       {
         "from": "character",
@@ -23639,7 +23639,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man, casually dressed, leaning against a vintage red motorcycle parked in an open field. The sky behind him is a vibrant blue with a few scattered clouds. He's wearing sunglasses, a leather jacket, and has a playful smirk on his face.>>"
+        "value": "|| image The image shows a man, casually dressed, leaning against a vintage red motorcycle parked in an open field. The sky behind him is a vibrant blue with a few scattered clouds. He's wearing sunglasses, a leather jacket, and has a playful smirk on his face."
       },
       {
         "from": "character",
@@ -23875,7 +23875,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: A man is shown from the waist up, wearing a black t-shirt with a graphic logo on the front. He is standing in a warmly lit kitchen, smiling at the camera. On the counter behind him, there's a blender and a bowl of fresh fruit, seemingly ready for making a smoothie.>>"
+        "value": "|| image A man is shown from the waist up, wearing a black t-shirt with a graphic logo on the front. He is standing in a warmly lit kitchen, smiling at the camera. On the counter behind him, there's a blender and a bowl of fresh fruit, seemingly ready for making a smoothie."
       },
       {
         "from": "character",
@@ -24159,7 +24159,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a female wearing a casual blue top and jeans, standing in her well-organized kitchen with a smoothie in hand. On the counter, there's an assortment of fresh fruits and a blender. The environment is clean and bright.>>"
+        "value": "|| image The image depicts a female wearing a casual blue top and jeans, standing in her well-organized kitchen with a smoothie in hand. On the counter, there's an assortment of fresh fruits and a blender. The environment is clean and bright."
       },
       {
         "from": "character",
@@ -24587,7 +24587,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a neat work desk with a vintage typewriter, a cup of steaming coffee, and an open notebook with a fountain pen on top. There are stickers with classic car and motorcycle designs scattered around the notebook. A small cactus plant adds a touch of green to the setup.>> Just setting up my workspace for the day, wanted to share the vibe with you. 😘"
+        "value": "Just setting up my workspace for the day, wanted to share the vibe with you. 😘|| image The image shows a neat work desk with a vintage typewriter, a cup of steaming coffee, and an open notebook with a fountain pen on top. There are stickers with classic car and motorcycle designs scattered around the notebook. A small cactus plant adds a touch of green to the setup."
       },
       {
         "from": "character",
@@ -24999,7 +24999,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a cozy room with a large bookshelf full of books, a guitar leaning against a chair, and a large window with the curtains drawn back to reveal a sunny day outside. In the foreground, a cat is curled up asleep on a fluffy rug.>> Just chilling at home, thinking of you, babe."
+        "value": "Just chilling at home, thinking of you, babe.|| image The image shows a cozy room with a large bookshelf full of books, a guitar leaning against a chair, and a large window with the curtains drawn back to reveal a sunny day outside. In the foreground, a cat is curled up asleep on a fluffy rug."
       },
       {
         "from": "character",
@@ -25443,7 +25443,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a cozy living room with a roaring fireplace. A man is seated on the couch, wearing a comfy sweater and holding a book in his lap. There's a mug of steaming beverage on the side table and a gentle smile on his face.>>"
+        "value": "|| image The image displays a cozy living room with a roaring fireplace. A man is seated on the couch, wearing a comfy sweater and holding a book in his lap. There's a mug of steaming beverage on the side table and a gentle smile on his face."
       },
       {
         "from": "character",
@@ -25767,7 +25767,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a cozy home office setup with a sleek, modern desk supporting a dual monitor computer system, high-tech gadgets, and a couple of plant pots bringing a touch of greenery to the space.>> Just finished setting up my new workspace, babe! What do you think?"
+        "value": "Just finished setting up my new workspace, babe! What do you think?|| image The image displays a cozy home office setup with a sleek, modern desk supporting a dual monitor computer system, high-tech gadgets, and a couple of plant pots bringing a touch of greenery to the space."
       },
       {
         "from": "character",
@@ -26131,7 +26131,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man with a friendly smile, clad in a crisp, dark blue shirt and black jeans. He stands beside a vintage motorcycle, which gleams under the afternoon sun. A helmet rests on the bike's seat, suggesting the promise of a road trip. The backdrop is a quiet street lined with autumn-kissed trees.>>"
+        "value": "|| image The image showcases a man with a friendly smile, clad in a crisp, dark blue shirt and black jeans. He stands beside a vintage motorcycle, which gleams under the afternoon sun. A helmet rests on the bike's seat, suggesting the promise of a road trip. The backdrop is a quiet street lined with autumn-kissed trees."
       },
       {
         "from": "character",
@@ -26575,7 +26575,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man's hand holding a well-worn leather-bound journal open to a page filled with handwritten notes. On the table next to the journal is a steaming cup of coffee and a silver pen.>> Just jotting down some thoughts before bed, but can't stop thinking about you, babe..."
+        "value": "Just jotting down some thoughts before bed, but can't stop thinking about you, babe...|| image The image shows a man's hand holding a well-worn leather-bound journal open to a page filled with handwritten notes. On the table next to the journal is a steaming cup of coffee and a silver pen."
       },
       {
         "from": "character",
@@ -26907,7 +26907,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man grilling outdoors on a sunny day. He is focused on flipping a steak on a large barbecue grill. The man is wearing a chef's apron and there is a variety of vegetables and other foods waiting to be cooked on a nearby table.>>"
+        "value": "|| image The image features a man grilling outdoors on a sunny day. He is focused on flipping a steak on a large barbecue grill. The man is wearing a chef's apron and there is a variety of vegetables and other foods waiting to be cooked on a nearby table."
       },
       {
         "from": "character",
@@ -27231,7 +27231,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man at a kitchen counter, kneading dough on a flour-dusted surface. He wears a casual white t-shirt and denim jeans, his expression focused on the task. Various ingredients and kitchen tools are visible around him, suggesting he is baking something from scratch.>> Just trying out that pizza recipe you love, babe!"
+        "value": "Just trying out that pizza recipe you love, babe!|| image The image features a man at a kitchen counter, kneading dough on a flour-dusted surface. He wears a casual white t-shirt and denim jeans, his expression focused on the task. Various ingredients and kitchen tools are visible around him, suggesting he is baking something from scratch."
       },
       {
         "from": "character",
@@ -27603,7 +27603,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man proudly standing in his well-organized kitchen. He is holding a plate of homemade sushi, and his face beams with pride at his culinary creation. The kitchen is modern, with stainless steel appliances and a neat arrangement of cooking utensils.>> Just rolled my first sushi, babe! What do you think?"
+        "value": "Just rolled my first sushi, babe! What do you think?|| image The image showcases a man proudly standing in his well-organized kitchen. He is holding a plate of homemade sushi, and his face beams with pride at his culinary creation. The kitchen is modern, with stainless steel appliances and a neat arrangement of cooking utensils."
       },
       {
         "from": "character",
@@ -27903,7 +27903,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a home office environment. He is wearing a casual blue shirt and glasses, smiling at the camera. On his desk, there are a few books stacked neatly to the side, a laptop open in front of him, and a steaming cup of coffee next to the computer. A small potted plant adds a touch of greenery to the scene.>> Just taking a break from work to send you a smile, babe!"
+        "value": "Just taking a break from work to send you a smile, babe!|| image The image shows a man in a home office environment. He is wearing a casual blue shirt and glasses, smiling at the camera. On his desk, there are a few books stacked neatly to the side, a laptop open in front of him, and a steaming cup of coffee next to the computer. A small potted plant adds a touch of greenery to the scene."
       },
       {
         "from": "character",
@@ -28171,7 +28171,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man in a casual navy blue shirt and jeans, holding a fishing rod beside a tranquil lake. Tall trees and a clear blue sky reflect in the water's surface. The man has a content smile on his face as he seems to be enjoying a peaceful moment in nature.>> Just thought you'd enjoy this little moment of peace with me, babe."
+        "value": "Just thought you'd enjoy this little moment of peace with me, babe.|| image The image depicts a man in a casual navy blue shirt and jeans, holding a fishing rod beside a tranquil lake. Tall trees and a clear blue sky reflect in the water's surface. The man has a content smile on his face as he seems to be enjoying a peaceful moment in nature."
       },
       {
         "from": "character",
@@ -28503,7 +28503,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a fitted gray T-shirt and jeans, standing in a kitchen with a wooden countertop. Various fresh ingredients are neatly laid out in front of him, including vegetables and a raw steak. It seems he's about to cook something delicious.>> Getting ready to cook our favorite meal, babe. Wish you were here to taste it."
+        "value": "Getting ready to cook our favorite meal, babe. Wish you were here to taste it.|| image The image shows a man wearing a fitted gray T-shirt and jeans, standing in a kitchen with a wooden countertop. Various fresh ingredients are neatly laid out in front of him, including vegetables and a raw steak. It seems he's about to cook something delicious."
       },
       {
         "from": "character",
@@ -28787,7 +28787,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a well-fitted suit standing confidently at a library. He is holding an open book in his hands, with shelves of books surrounding him. The man is smiling at the camera, giving off an air of sophistication and charm.>> Finally got to check out that first edition I was telling you about, love!"
+        "value": "Finally got to check out that first edition I was telling you about, love!|| image The image shows a man in a well-fitted suit standing confidently at a library. He is holding an open book in his hands, with shelves of books surrounding him. The man is smiling at the camera, giving off an air of sophistication and charm."
       },
       {
         "from": "character",
@@ -29079,7 +29079,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a cozy room, sitting comfortably on a plush armchair with a book in his lap. A small, warmly lit lamp casts a soothing glow over the scene, and shelves filled with various books can be seen in the background. The man is looking up from the book, smiling at the camera.>>"
+        "value": "|| image The image features a man in a cozy room, sitting comfortably on a plush armchair with a book in his lap. A small, warmly lit lamp casts a soothing glow over the scene, and shelves filled with various books can be seen in the background. The man is looking up from the book, smiling at the camera."
       },
       {
         "from": "character",
@@ -29443,7 +29443,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a cozy home setting. He is sitting at a dining table with a large, freshly cooked pizza in front of him. He's holding up a slice, and on the table, there's a set of colorful plates and a glass of red wine. The surroundings include a warmly lit room with a few potted plants, giving the space a homey feel.>>"
+        "value": "|| image The image features a man in a cozy home setting. He is sitting at a dining table with a large, freshly cooked pizza in front of him. He's holding up a slice, and on the table, there's a set of colorful plates and a glass of red wine. The surroundings include a warmly lit room with a few potted plants, giving the space a homey feel."
       },
       {
         "from": "character",
@@ -29743,7 +29743,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a casual button-down shirt, leaning against the railing of a boat. The sun is setting behind him, casting a warm glow that highlights the contours of his face. He is smiling at the camera, and his eyes seem to reflect the ocean's serenity.>> Just catching some sunset vibes before I head back to you, babe."
+        "value": "Just catching some sunset vibes before I head back to you, babe.|| image The image shows a man in a casual button-down shirt, leaning against the railing of a boat. The sun is setting behind him, casting a warm glow that highlights the contours of his face. He is smiling at the camera, and his eyes seem to reflect the ocean's serenity."
       },
       {
         "from": "character",
@@ -30011,7 +30011,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The photo depicts a man in a cozy room, filled with soft lighting and numerous bookshelves brimming with books. He is seated comfortably in an armchair, holding an open novel in one hand and a steaming mug of coffee in the other. He sports a relaxed smile, gazing directly at the camera as if inviting someone to join him in his quiet evening.>> Just settling down with a good book, love."
+        "value": "Just settling down with a good book, love.|| image The photo depicts a man in a cozy room, filled with soft lighting and numerous bookshelves brimming with books. He is seated comfortably in an armchair, holding an open novel in one hand and a steaming mug of coffee in the other. He sports a relaxed smile, gazing directly at the camera as if inviting someone to join him in his quiet evening."
       },
       {
         "from": "character",
@@ -30455,7 +30455,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a cozy living room with a large bookshelf filled with various books. A comfortable looking couch sits in the center of the room with a soft blanket strewn across it. In the foreground, a steaming cup of coffee rests on a small wooden table.>> Just settled in for a quiet evening at home, wish you were cuddled up here with me!"
+        "value": "Just settled in for a quiet evening at home, wish you were cuddled up here with me!|| image The image depicts a cozy living room with a large bookshelf filled with various books. A comfortable looking couch sits in the center of the room with a soft blanket strewn across it. In the foreground, a steaming cup of coffee rests on a small wooden table."
       },
       {
         "from": "character",
@@ -30747,7 +30747,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man sitting at a wooden desk with multiple monitors set up, gaming accessories scattered around, and a large, colorful poster of a fantasy landscape on the wall behind him. He is wearing headphones and seems focused on the screen in front of him.>>"
+        "value": "|| image The image shows a man sitting at a wooden desk with multiple monitors set up, gaming accessories scattered around, and a large, colorful poster of a fantasy landscape on the wall behind him. He is wearing headphones and seems focused on the screen in front of him."
       },
       {
         "from": "character",
@@ -31055,7 +31055,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man leaning against a wall, wearing a casual grey t-shirt and dark jeans. He has a warm smile, and his arms are crossed confidently. In the background, several potted plants bring a touch of greenery to the composition.>>"
+        "value": "|| image The image shows a man leaning against a wall, wearing a casual grey t-shirt and dark jeans. He has a warm smile, and his arms are crossed confidently. In the background, several potted plants bring a touch of greenery to the composition."
       },
       {
         "from": "character",
@@ -31515,7 +31515,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a neatly arranged home office with a large wooden desk covered in various tech gadgets, a triple monitor setup, and a comfortable-looking executive chair. The backdrop features a bookshelf filled with books on a wide array of topics, several framed certificates, and a sizable window that lets in ample natural light.>>"
+        "value": "|| image The image showcases a neatly arranged home office with a large wooden desk covered in various tech gadgets, a triple monitor setup, and a comfortable-looking executive chair. The backdrop features a bookshelf filled with books on a wide array of topics, several framed certificates, and a sizable window that lets in ample natural light."
       },
       {
         "from": "character",
@@ -31831,7 +31831,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a well-fitted suit, holding a vibrant, green houseplant in one hand, and in the other, a wooden spoon. The suit is charcoal gray, and the man has a broad smile on his face, looking proud of his cooking accomplishment.>> Just wanted to show off my plant baby and the curry I made. Looks almost as good as you, babe 😘"
+        "value": "Just wanted to show off my plant baby and the curry I made. Looks almost as good as you, babe 😘|| image The image shows a man in a well-fitted suit, holding a vibrant, green houseplant in one hand, and in the other, a wooden spoon. The suit is charcoal gray, and the man has a broad smile on his face, looking proud of his cooking accomplishment."
       },
       {
         "from": "character",
@@ -32307,7 +32307,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man in a cozy room filled with bookshelves. He is sitting on a comfortable-looking armchair, holding an open book in his hands. He is smiling at the camera, exuding a relaxed and content vibe in his casual attire.>>"
+        "value": "|| image The image depicts a man in a cozy room filled with bookshelves. He is sitting on a comfortable-looking armchair, holding an open book in his hands. He is smiling at the camera, exuding a relaxed and content vibe in his casual attire."
       },
       {
         "from": "character",
@@ -32711,7 +32711,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a close-up of a plated dish, with grilled salmon garnished with lemon slices and a side of asparagus. A fork rests on the side of the plate, and there's a faint steam rising from the freshly cooked meal.>> Just made dinner, wish you were here to taste it 😘"
+        "value": "Just made dinner, wish you were here to taste it 😘|| image The image shows a close-up of a plated dish, with grilled salmon garnished with lemon slices and a side of asparagus. A fork rests on the side of the plate, and there's a faint steam rising from the freshly cooked meal."
       },
       {
         "from": "character",
@@ -33123,7 +33123,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a cozy living room with a crackling fireplace. The walls are adorned with various framed certifications and a large bookshelf filled with books on forensics and criminology. A guitar rests against a comfortable looking armchair.>> Just finished my guitar practice, babe. Thinking about you!"
+        "value": "Just finished my guitar practice, babe. Thinking about you!|| image The image displays a cozy living room with a crackling fireplace. The walls are adorned with various framed certifications and a large bookshelf filled with books on forensics and criminology. A guitar rests against a comfortable looking armchair."
       },
       {
         "from": "character",
@@ -33503,7 +33503,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a cozy living room with a dark brown leather couch, a small wooden coffee table, and a bookshelf filled with various books. On the coffee table, there is an open book next to a half-finished cup of coffee. The decor gives a sense of comfort and relaxation, as though someone has been spending a quiet afternoon reading.>> Just chilling on this lazy afternoon, how's your day going, babe?"
+        "value": "Just chilling on this lazy afternoon, how's your day going, babe?|| image The image displays a cozy living room with a dark brown leather couch, a small wooden coffee table, and a bookshelf filled with various books. On the coffee table, there is an open book next to a half-finished cup of coffee. The decor gives a sense of comfort and relaxation, as though someone has been spending a quiet afternoon reading."
       },
       {
         "from": "character",
@@ -33907,7 +33907,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man wearing a well-fitted t-shirt and denim jeans, leaning casually against a mountain bike. The bike is propped on a rocky trail that winds through a forest. The man has a confident smile and appears to be enjoying a break on a mountain biking adventure.>>"
+        "value": "|| image The image features a man wearing a well-fitted t-shirt and denim jeans, leaning casually against a mountain bike. The bike is propped on a rocky trail that winds through a forest. The man has a confident smile and appears to be enjoying a break on a mountain biking adventure."
       },
       {
         "from": "character",
@@ -34239,7 +34239,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man sitting at a wooden desk, surrounded by shelves filled with an array of mythology and folklore books. He's got a warm smile and holds up a thick, ancient-looking tome with an embossed cover. It seems like he's in the middle of researching or reading.>> Just diving into some mythological tales, thought you might appreciate this scene!"
+        "value": "Just diving into some mythological tales, thought you might appreciate this scene!|| image The image features a man sitting at a wooden desk, surrounded by shelves filled with an array of mythology and folklore books. He's got a warm smile and holds up a thick, ancient-looking tome with an embossed cover. It seems like he's in the middle of researching or reading."
       },
       {
         "from": "character",
@@ -34563,7 +34563,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a neatly arranged workspace with a dual monitor setup. Several robotics and automation books are stacked to one side, while a soldering station and various electronic components are spread out across the desk. In the background, there's a poster of a famous roboticist, adding an inspirational touch to the space.>>"
+        "value": "|| image The image showcases a neatly arranged workspace with a dual monitor setup. Several robotics and automation books are stacked to one side, while a soldering station and various electronic components are spread out across the desk. In the background, there's a poster of a famous roboticist, adding an inspirational touch to the space."
       },
       {
         "from": "character",
@@ -34879,7 +34879,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man standing in a cozy-looking kitchen with wooden cabinets and modern appliances. He is wearing a casual plaid shirt and jeans, holding a steaming mug of coffee in one hand while the other rests on the countertop. A smile is on his face as he seems to be enjoying a relaxed morning at home.>>"
+        "value": "|| image The image depicts a man standing in a cozy-looking kitchen with wooden cabinets and modern appliances. He is wearing a casual plaid shirt and jeans, holding a steaming mug of coffee in one hand while the other rests on the countertop. A smile is on his face as he seems to be enjoying a relaxed morning at home."
       },
       {
         "from": "character",
@@ -35243,7 +35243,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: A picture of a man standing in a kitchen with a proud smile on his face. He is holding a homemade wooden cutting board with a smooth finish and intricate grain patterns. The kitchen is neat, with various cooking utensils hanging in the background.>> Just finished this beauty, what do you think?"
+        "value": "Just finished this beauty, what do you think?|| image A picture of a man standing in a kitchen with a proud smile on his face. He is holding a homemade wooden cutting board with a smooth finish and intricate grain patterns. The kitchen is neat, with various cooking utensils hanging in the background."
       },
       {
         "from": "character",
@@ -35671,7 +35671,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a woman in a casual, cozy living room, wearing a soft sweater and jeans, lounging on a plush sofa with a book in her lap. The room is warmly lit with soft ambient lighting, and there are numerous houseplants that add a touch of greenery to the space.>>"
+        "value": "|| image The image displays a woman in a casual, cozy living room, wearing a soft sweater and jeans, lounging on a plush sofa with a book in her lap. The room is warmly lit with soft ambient lighting, and there are numerous houseplants that add a touch of greenery to the space."
       },
       {
         "from": "character",
@@ -35931,7 +35931,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man wearing casual attire, leaning on the railing of a wooden deck. He is overlooking a verdant backyard with a variety of plants and a small garden. The evening sun casts a warm glow on the scene, highlighting the contented smile on his face.>> Just enjoying some fresh air out here, babe. How's your day going?"
+        "value": "Just enjoying some fresh air out here, babe. How's your day going?|| image The image depicts a man wearing casual attire, leaning on the railing of a wooden deck. He is overlooking a verdant backyard with a variety of plants and a small garden. The evening sun casts a warm glow on the scene, highlighting the contented smile on his face."
       },
       {
         "from": "character",
@@ -36207,7 +36207,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a casual black shirt and jeans, standing in a kitchen with a large bowl of salad in front of him. He has a playful smirk on his face and appears to be tossing the salad with a pair of wooden spoons. Various vegetables can be seen on the counter beside him, indicating he might have prepared the salad himself.>>"
+        "value": "|| image The image shows a man wearing a casual black shirt and jeans, standing in a kitchen with a large bowl of salad in front of him. He has a playful smirk on his face and appears to be tossing the salad with a pair of wooden spoons. Various vegetables can be seen on the counter beside him, indicating he might have prepared the salad himself."
       },
       {
         "from": "character",
@@ -36619,7 +36619,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image captures a well-organized workspace with a sleek, modern laptop open and a steaming cup of coffee beside it. On the laptop screen, a colorful presentation is visible, filled with charts and bullet points. There's a small plant in a pot adding a touch of green to the scene, and in the background, a bulletin board adorned with various notes and reminders can be seen.>> Just setting up for some late-night work, but I'd rather be distracted by you... 😉"
+        "value": "Just setting up for some late-night work, but I'd rather be distracted by you... 😉|| image The image captures a well-organized workspace with a sleek, modern laptop open and a steaming cup of coffee beside it. On the laptop screen, a colorful presentation is visible, filled with charts and bullet points. There's a small plant in a pot adding a touch of green to the scene, and in the background, a bulletin board adorned with various notes and reminders can be seen."
       },
       {
         "from": "character",
@@ -37023,7 +37023,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man standing in a cozy, well-decorated kitchen with warm lighting. He's wearing a casual shirt and jeans, holding a steaming mug of coffee with both hands. On the counter behind him, there is a freshly baked pie with a golden-brown crust.>> Just baked an apple pie, wish you were here to taste it 😊"
+        "value": "Just baked an apple pie, wish you were here to taste it 😊|| image The image shows a man standing in a cozy, well-decorated kitchen with warm lighting. He's wearing a casual shirt and jeans, holding a steaming mug of coffee with both hands. On the counter behind him, there is a freshly baked pie with a golden-brown crust."
       },
       {
         "from": "character",
@@ -37419,7 +37419,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man in a cozy room sitting on a plush sofa with a guitar resting on his lap. He wears a casual shirt and jeans, and a warm smile is on his face. The room has warm lighting and a bookshelf filled with various books and trinkets can be seen in the background.>>"
+        "value": "|| image The image depicts a man in a cozy room sitting on a plush sofa with a guitar resting on his lap. He wears a casual shirt and jeans, and a warm smile is on his face. The room has warm lighting and a bookshelf filled with various books and trinkets can be seen in the background."
       },
       {
         "from": "character",
@@ -37879,7 +37879,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a white chef's apron, standing in a tidy kitchen, with a large bowl of salad in front of him. He's holding two salad servers and is playfully pretending to use them as microphones, singing into them with a bright smile.>> Just whipping up a healthy dinner before our workout session! 🥗"
+        "value": "Just whipping up a healthy dinner before our workout session! 🥗|| image The image shows a man wearing a white chef's apron, standing in a tidy kitchen, with a large bowl of salad in front of him. He's holding two salad servers and is playfully pretending to use them as microphones, singing into them with a bright smile."
       },
       {
         "from": "character",
@@ -38171,7 +38171,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man at a home office desk, surrounded by two monitors, a laptop, and various other tech gadgets. He is smiling towards the camera, raising his coffee mug in a toasting gesture. Papers and books are neatly stacked on the side of the desk, and a small potted plant adds a touch of greenery to the space.>> Just conquering the workday and thinking of you, babe!"
+        "value": "Just conquering the workday and thinking of you, babe!|| image The image shows a man at a home office desk, surrounded by two monitors, a laptop, and various other tech gadgets. He is smiling towards the camera, raising his coffee mug in a toasting gesture. Papers and books are neatly stacked on the side of the desk, and a small potted plant adds a touch of greenery to the space."
       },
       {
         "from": "character",
@@ -38543,7 +38543,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a neatly organized desk with a high-tech computer setup, including dual monitors, a mechanical keyboard, and a professional gaming mouse. The desk is made of light wood and on it, there's a potted plant providing a touch of greenery, while in the background, a collection of hardcover books are visible on a shelf.>>"
+        "value": "|| image The image showcases a neatly organized desk with a high-tech computer setup, including dual monitors, a mechanical keyboard, and a professional gaming mouse. The desk is made of light wood and on it, there's a potted plant providing a touch of greenery, while in the background, a collection of hardcover books are visible on a shelf."
       },
       {
         "from": "character",
@@ -38939,7 +38939,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man standing in a kitchen, wearing a casual shirt and jeans. He has a confident smile and is holding up a plate with a homemade pizza on it. The kitchen is tidy, with various cooking utensils and a bowl of fresh vegetables on the countertop.>> Just made my specialty pizza, babe! Wish you could taste it 🍕😘"
+        "value": "Just made my specialty pizza, babe! Wish you could taste it 🍕😘|| image The image shows a man standing in a kitchen, wearing a casual shirt and jeans. He has a confident smile and is holding up a plate with a homemade pizza on it. The kitchen is tidy, with various cooking utensils and a bowl of fresh vegetables on the countertop."
       },
       {
         "from": "character",
@@ -39351,7 +39351,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy kitchen, standing in front of a stove where a pot is simmering. He is wearing an apron over casual clothes and tasting the sauce from a wooden spoon. The kitchen has warm lighting and various cooking utensils hanging in the background.>>"
+        "value": "|| image The image shows a man in a cozy kitchen, standing in front of a stove where a pot is simmering. He is wearing an apron over casual clothes and tasting the sauce from a wooden spoon. The kitchen has warm lighting and various cooking utensils hanging in the background."
       },
       {
         "from": "character",
@@ -39747,7 +39747,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a neatly arranged living room with a large bookshelf filled with various books, a comfortable looking grey sofa with bright colored pillows, and a modern glass coffee table on top of a plush area rug. There is a large window that allows plenty of natural light to illuminate the space, and a few potted plants add a touch of greenery.>>"
+        "value": "|| image The image showcases a neatly arranged living room with a large bookshelf filled with various books, a comfortable looking grey sofa with bright colored pillows, and a modern glass coffee table on top of a plush area rug. There is a large window that allows plenty of natural light to illuminate the space, and a few potted plants add a touch of greenery."
       },
       {
         "from": "character",
@@ -40015,7 +40015,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man standing in a cozy kitchen with flour on his face, wearing an apron. He is holding a rolling pin and there's a half-rolled pie crust on the counter in front of him. The kitchen is tidy, with various ingredients scattered around indicating he is in the process of baking.>> Just trying my hand at baking, thought you might like a taste later 😉"
+        "value": "Just trying my hand at baking, thought you might like a taste later 😉|| image The image shows a man standing in a cozy kitchen with flour on his face, wearing an apron. He is holding a rolling pin and there's a half-rolled pie crust on the counter in front of him. The kitchen is tidy, with various ingredients scattered around indicating he is in the process of baking."
       },
       {
         "from": "character",
@@ -40451,7 +40451,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a well-lit kitchen, leaning casually against the counter with a smirk on his face. He's wearing a white T-shirt and blue jeans. In front of him, on the counter, there's a colorful array of freshly chopped vegetables and a pan that looks ready for cooking.>> Just showing off my chopping skills, babe. What do you think?"
+        "value": "Just showing off my chopping skills, babe. What do you think?|| image The image features a man in a well-lit kitchen, leaning casually against the counter with a smirk on his face. He's wearing a white T-shirt and blue jeans. In front of him, on the counter, there's a colorful array of freshly chopped vegetables and a pan that looks ready for cooking."
       },
       {
         "from": "character",
@@ -40871,7 +40871,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man grilling food on a barbecue in a backyard setting. He is smiling and focused on cooking. The table next to him has various condiments and a pitcher of what appears to be lemonade. In the background, there's a small garden with blooming flowers.>>"
+        "value": "|| image The image shows a man grilling food on a barbecue in a backyard setting. He is smiling and focused on cooking. The table next to him has various condiments and a pitcher of what appears to be lemonade. In the background, there's a small garden with blooming flowers."
       },
       {
         "from": "character",
@@ -41267,7 +41267,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a neatly arranged charcuterie board filled with an assortment of cheeses, cured meats, fruits, and nuts, placed on a dark wood table. A pair of hands is seen holding a piece of cheese and a cracker, about to make a delicious bite.>> Just whipped up some snacks for our movie night, what do you think?"
+        "value": "Just whipped up some snacks for our movie night, what do you think?|| image The image displays a neatly arranged charcuterie board filled with an assortment of cheeses, cured meats, fruits, and nuts, placed on a dark wood table. A pair of hands is seen holding a piece of cheese and a cracker, about to make a delicious bite."
       },
       {
         "from": "character",
@@ -41647,7 +41647,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man seated at a cozy kitchen table, a large, half-finished jigsaw puzzle spread before him. His concentration is apparent in his furrowed brow and the thoughtful way he holds a puzzle piece between his fingers. A steaming mug of coffee sits next to him, suggesting a relaxed, leisurely morning.>>"
+        "value": "|| image The image depicts a man seated at a cozy kitchen table, a large, half-finished jigsaw puzzle spread before him. His concentration is apparent in his furrowed brow and the thoughtful way he holds a puzzle piece between his fingers. A steaming mug of coffee sits next to him, suggesting a relaxed, leisurely morning."
       },
       {
         "from": "character",
@@ -42067,7 +42067,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image captures a close-up of a well-prepared breakfast tray. The tray holds a steaming cup of coffee, a small bowl of fresh fruit, and a croissant. The tray is placed on a white, plush bedspread, and the morning light filters softly through sheer curtains in the background.>> Good morning, babe, wish you were here to enjoy this with me!"
+        "value": "Good morning, babe, wish you were here to enjoy this with me!|| image The image captures a close-up of a well-prepared breakfast tray. The tray holds a steaming cup of coffee, a small bowl of fresh fruit, and a croissant. The tray is placed on a white, plush bedspread, and the morning light filters softly through sheer curtains in the background."
       },
       {
         "from": "character",
@@ -42431,7 +42431,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a woman holding a large, colorful kite against a clear blue sky. She is in an open field with patches of green grass and wildflowers. The woman is smiling brightly, wearing casual clothing suitable for outdoor activities.>> Just got done with my kite-flying adventure, it was so much fun! 🥰"
+        "value": "Just got done with my kite-flying adventure, it was so much fun! 🥰|| image The image shows a woman holding a large, colorful kite against a clear blue sky. She is in an open field with patches of green grass and wildflowers. The woman is smiling brightly, wearing casual clothing suitable for outdoor activities."
       },
       {
         "from": "character",
@@ -42931,7 +42931,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a man seated at a rustic wooden table, a steaming cup of coffee in one hand and a thick book open in front of him. His other hand is resting on the page, suggesting a moment of contemplation. He's wearing a cozy sweater and glasses, and the soft lighting adds to the warm ambiance of the scene.>>"
+        "value": "|| image The image displays a man seated at a rustic wooden table, a steaming cup of coffee in one hand and a thick book open in front of him. His other hand is resting on the page, suggesting a moment of contemplation. He's wearing a cozy sweater and glasses, and the soft lighting adds to the warm ambiance of the scene."
       },
       {
         "from": "character",
@@ -43183,7 +43183,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man in a cozy, dimly lit room filled with books. He's reclining casually on a leather armchair, holding a steaming cup of coffee with a small smile on his face. The bookshelves are lined with various titles that hint at a love for mystery and adventure novels.>> Just taking a moment to relax before our starry night, babe."
+        "value": "Just taking a moment to relax before our starry night, babe.|| image The image showcases a man in a cozy, dimly lit room filled with books. He's reclining casually on a leather armchair, holding a steaming cup of coffee with a small smile on his face. The bookshelves are lined with various titles that hint at a love for mystery and adventure novels."
       },
       {
         "from": "character",
@@ -43627,7 +43627,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man wearing a fitted grey tank top and black gym shorts, holding a basketball under his arm. He is standing on an outdoor basketball court, with the hoops visible in the background. His expression is focused and competitive, with a hint of a smile, as if he is enjoying the game.>> Just finished playing some hoops, babe! Feeling pumped. 😜"
+        "value": "Just finished playing some hoops, babe! Feeling pumped. 😜|| image The image features a man wearing a fitted grey tank top and black gym shorts, holding a basketball under his arm. He is standing on an outdoor basketball court, with the hoops visible in the background. His expression is focused and competitive, with a hint of a smile, as if he is enjoying the game."
       },
       {
         "from": "character",
@@ -43983,7 +43983,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a kitchen, wearing an apron and holding a spatula. He has a smile on his face and appears to be cooking, with a pan on the stove and ingredients scattered around the counter.>>"
+        "value": "|| image The image features a man in a kitchen, wearing an apron and holding a spatula. He has a smile on his face and appears to be cooking, with a pan on the stove and ingredients scattered around the counter."
       },
       {
         "from": "character",
@@ -44387,7 +44387,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man wearing a white tank top and jeans, standing in a well-lit kitchen. He is leaning against a marble countertop, with a variety of colorful fresh vegetables and a cutting board in front of him. It appears he's in the middle of preparing a meal.>>"
+        "value": "|| image The image shows a man wearing a white tank top and jeans, standing in a well-lit kitchen. He is leaning against a marble countertop, with a variety of colorful fresh vegetables and a cutting board in front of him. It appears he's in the middle of preparing a meal."
       },
       {
         "from": "character",
@@ -44719,7 +44719,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a male individual with a broad smile, casually leaning against the open door of a bright red vintage car. He is dressed in a fitted white t-shirt and denim jeans. The background is a clear blue sky with a few scattered clouds.>>"
+        "value": "|| image The image displays a male individual with a broad smile, casually leaning against the open door of a bright red vintage car. He is dressed in a fitted white t-shirt and denim jeans. The background is a clear blue sky with a few scattered clouds."
       },
       {
         "from": "character",
@@ -45099,7 +45099,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy, dimly lit room, wearing a casual grey sweater and dark jeans. He's seated on a plush sofa with a guitar resting on his knee, fingers on the strings as though he was playing moments before the photo was taken. Several books are scattered on the coffee table in front of him.>>"
+        "value": "|| image The image shows a man in a cozy, dimly lit room, wearing a casual grey sweater and dark jeans. He's seated on a plush sofa with a guitar resting on his knee, fingers on the strings as though he was playing moments before the photo was taken. Several books are scattered on the coffee table in front of him."
       },
       {
         "from": "character",
@@ -45335,7 +45335,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man dressed in a casual white t-shirt and jeans, sitting on the edge of a scenic cliff overlooking a vast forest below. The man is smiling towards the camera, exuding a sense of adventure and relaxation.>> Just taking a moment to enjoy nature's beauty...and thinking of you. 😍"
+        "value": "Just taking a moment to enjoy nature's beauty...and thinking of you. 😍|| image The image shows a man dressed in a casual white t-shirt and jeans, sitting on the edge of a scenic cliff overlooking a vast forest below. The man is smiling towards the camera, exuding a sense of adventure and relaxation."
       },
       {
         "from": "character",
@@ -45659,7 +45659,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a small, cozy coffee shop interior with a variety of plants decorating the space. A wooden counter is lined with an assortment of pastries and a barista is visible behind the espresso machine. There's a chalkboard menu hanging above the counter displaying the different coffee selections available.>> Just chilling at my favorite cafe, thinking of you, babe."
+        "value": "Just chilling at my favorite cafe, thinking of you, babe.|| image The image displays a small, cozy coffee shop interior with a variety of plants decorating the space. A wooden counter is lined with an assortment of pastries and a barista is visible behind the espresso machine. There's a chalkboard menu hanging above the counter displaying the different coffee selections available."
       },
       {
         "from": "character",
@@ -45943,7 +45943,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man grilling vegetables and meats on a barbecue in a lush backyard garden. He's wearing a casual white t-shirt and denim shorts, with a wide-brimmed hat to shield his eyes from the sun. A variety of skewers are lined up on the side, ready to be cooked.>> Just mastering the grill for our little backyard party, babe!"
+        "value": "Just mastering the grill for our little backyard party, babe!|| image The image shows a man grilling vegetables and meats on a barbecue in a lush backyard garden. He's wearing a casual white t-shirt and denim shorts, with a wide-brimmed hat to shield his eyes from the sun. A variety of skewers are lined up on the side, ready to be cooked."
       },
       {
         "from": "character",
@@ -46331,7 +46331,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a casual shirt and jeans, standing in a cozy looking kitchen with a large plate of homemade cookies. He is holding one up to the camera as if offering it. The kitchen is well-lit and there are various baking ingredients scattered across the countertop.>> Look what I managed to whip up, sweetheart!"
+        "value": "Look what I managed to whip up, sweetheart!|| image The image shows a man in a casual shirt and jeans, standing in a cozy looking kitchen with a large plate of homemade cookies. He is holding one up to the camera as if offering it. The kitchen is well-lit and there are various baking ingredients scattered across the countertop."
       },
       {
         "from": "character",
@@ -46711,7 +46711,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a cozy living room with wooden floors and a large bookshelf filled with a variety of books. He is sitting on a comfortable-looking grey couch, holding a mug that steams lightly, suggesting a hot beverage inside. On the coffee table in front of him, there's a scattered array of board games.>>"
+        "value": "|| image The image shows a man in a cozy living room with wooden floors and a large bookshelf filled with a variety of books. He is sitting on a comfortable-looking grey couch, holding a mug that steams lightly, suggesting a hot beverage inside. On the coffee table in front of him, there's a scattered array of board games."
       },
       {
         "from": "character",
@@ -47083,7 +47083,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man in a casual button-down shirt and jeans, standing in a well-lit kitchen with modern appliances and a marble countertop. On the counter, there's a freshly baked pizza with an array of colorful toppings.>> Just pulled this beauty out of the oven, can't wait to share it with you!"
+        "value": "Just pulled this beauty out of the oven, can't wait to share it with you!|| image The image shows a man in a casual button-down shirt and jeans, standing in a well-lit kitchen with modern appliances and a marble countertop. On the counter, there's a freshly baked pizza with an array of colorful toppings."
       },
       {
         "from": "character",
@@ -47423,7 +47423,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a man in a dimly lit room, he is wearing a casual black t-shirt paired with dark jeans. His hands are playfully tucked into his pockets, and he sports a relaxed, confident smile. In the background, a neatly made bed and an open guitar case suggest personal hobbies and a tidy nature.>> Just got home from work, babe, and thought I'd show you how I unwind..."
+        "value": "Just got home from work, babe, and thought I'd show you how I unwind...|| image The image displays a man in a dimly lit room, he is wearing a casual black t-shirt paired with dark jeans. His hands are playfully tucked into his pockets, and he sports a relaxed, confident smile. In the background, a neatly made bed and an open guitar case suggest personal hobbies and a tidy nature."
       },
       {
         "from": "character",
@@ -47779,7 +47779,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image features a man in a casual button-down shirt and jeans, standing in a sunlit kitchen with a wooden spatula in hand, cooking what appears to be an omelette. The stovetop has various ingredients spread out, including cheese, tomatoes, and herbs. The man is smiling at the camera, clearly enjoying the cooking process.>>"
+        "value": "|| image The image features a man in a casual button-down shirt and jeans, standing in a sunlit kitchen with a wooden spatula in hand, cooking what appears to be an omelette. The stovetop has various ingredients spread out, including cheese, tomatoes, and herbs. The man is smiling at the camera, clearly enjoying the cooking process."
       },
       {
         "from": "character",
@@ -48135,7 +48135,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a woman sitting at a cozy home office, her laptop open in front of her. Papers and a steaming mug of coffee are neatly arranged on the desk. She's wearing a comfy oversized sweater and glasses, her hair tied back casually. The expression on her face is one of focused concentration.>>"
+        "value": "|| image The image depicts a woman sitting at a cozy home office, her laptop open in front of her. Papers and a steaming mug of coffee are neatly arranged on the desk. She's wearing a comfy oversized sweater and glasses, her hair tied back casually. The expression on her face is one of focused concentration."
       },
       {
         "from": "character",
@@ -48499,7 +48499,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image shows a man standing on a wooden bridge over a calm river. The surrounding landscape is lush and green, with trees reflecting in the water's surface. He is casually dressed in jeans and a fitted t-shirt, smiling at the camera. A hiking backpack is slung over one shoulder, suggesting he is out enjoying nature.>> Just took a break from the trail to send you this, babe."
+        "value": "Just took a break from the trail to send you this, babe.|| image The image shows a man standing on a wooden bridge over a calm river. The surrounding landscape is lush and green, with trees reflecting in the water's surface. He is casually dressed in jeans and a fitted t-shirt, smiling at the camera. A hiking backpack is slung over one shoulder, suggesting he is out enjoying nature."
       },
       {
         "from": "character",
@@ -48815,7 +48815,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image depicts a man in a well-fitted gym outfit, lifting a heavy kettlebell with a focused expression on his face. The gym environment around him is busy, with various fitness equipment and people working out in the background.>> Just finished my workout, thinking of you keeps me pumped!"
+        "value": "Just finished my workout, thinking of you keeps me pumped!|| image The image depicts a man in a well-fitted gym outfit, lifting a heavy kettlebell with a focused expression on his face. The gym environment around him is busy, with various fitness equipment and people working out in the background."
       },
       {
         "from": "character",
@@ -49283,7 +49283,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image showcases a man in a snug-fitting white t-shirt and jeans, seated on a bench in a park. A frisbee rests beside him, and trees with vibrant green leaves can be seen in the background. The sun seems to be shining down, casting a soft glow around the man who is smiling at the camera.>>"
+        "value": "|| image The image showcases a man in a snug-fitting white t-shirt and jeans, seated on a bench in a park. A frisbee rests beside him, and trees with vibrant green leaves can be seen in the background. The sun seems to be shining down, casting a soft glow around the man who is smiling at the camera."
       },
       {
         "from": "character",
@@ -49711,7 +49711,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: A woman can be seen leaning against a sleek, red sports car. She's wearing casual attire, including a pair of jeans and a comfortable white t-shirt. Her smile is radiant as she poses confidently beside her vehicle. The car is parked in what seems to be a suburban driveway, with hints of green shrubbery in the background.>>"
+        "value": "|| image A woman can be seen leaning against a sleek, red sports car. She's wearing casual attire, including a pair of jeans and a comfortable white t-shirt. Her smile is radiant as she poses confidently beside her vehicle. The car is parked in what seems to be a suburban driveway, with hints of green shrubbery in the background."
       },
       {
         "from": "character",
@@ -50163,7 +50163,7 @@
       },
       {
         "from": "human",
-        "value": "<<IMAGE: The image displays a neatly set table with two plates of spaghetti carbonara, a lit candle in between them, and two glasses of red wine. The setting appears to be intimate, ideal for a romantic dinner at home.>> Just finished cooking for our date night, can't wait for you to taste this!"
+        "value": "Just finished cooking for our date night, can't wait for you to taste this!|| image The image displays a neatly set table with two plates of spaghetti carbonara, a lit candle in between them, and two glasses of red wine. The setting appears to be intimate, ideal for a romantic dinner at home."
       },
       {
         "from": "character",
