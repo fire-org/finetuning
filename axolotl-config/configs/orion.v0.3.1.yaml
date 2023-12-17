@@ -1,0 +1,73 @@
+base_model: mistralai/Mistral-7B-v0.1
+base_model_config: mistralai/Mistral-7B-v0.1
+model_type: MistralForCausalLM
+tokenizer_type: AutoTokenizer
+tokenizer_use_fast: true
+tokenizer_legacy: true
+is_mistral_derived_model: true
+
+load_in_8bit: false
+load_in_4bit: false
+strict: false
+
+datasets:
+  - path: /workspace/finetuning/datasets/orion.v0.3.1.json
+    type: orion
+dataset_prepared_path:
+dataset_processes:
+
+eval_sample_packing: false
+eval_table_size: 0
+val_set_size: 0
+#eval_steps: 0.2
+
+output_dir: /workspace/orion-v0.3.1
+
+#warmup_ratio: 0.2
+warmup_steps: 50
+sequence_len: 4096
+sample_packing: false
+pad_to_sequence_len: true
+#total_supervised_tokens: 5724633
+
+wandb_project: lunalust
+wandb_entity: orionsoftware
+wandb_watch:
+wandb_run_id:
+wandb_log_model:
+
+gradient_accumulation_steps: 1
+micro_batch_size: 6
+#eval_batch_size: 1
+num_epochs: 3
+optimizer: adamw_torch
+adam_beta2: 0.95
+adam_epsilon: 0.00001
+lr_scheduler: cosine
+learning_rate: 0.0000055
+
+train_on_inputs: false
+group_by_length: false
+bf16: true
+fp16: false
+tf32: false
+
+gradient_checkpointing: true
+early_stopping_patience:
+resume_from_checkpoint:
+auto_resume_from_checkpoint: true
+local_rank:
+logging_steps: 1
+xformers_attention:
+flash_attention: true
+
+save_steps:
+debug:
+deepspeed: /workspace/axolotl/deepspeed/zero2.json
+weight_decay: 0.1
+fsdp:
+fsdp_config:
+special_tokens:
+  bos_token: "<s>"
+  eos_token: "</s>"
+  unk_token: "<unk>"
