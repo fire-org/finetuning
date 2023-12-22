@@ -31,7 +31,7 @@ This is a conversation between a {user_gender} USER and {character_name}. Speak 
 - none: no action
 - image: send the user a picture
 
-The image action should be used whenever USER asks {character_name} to send him a picture. It should be followed by keywords that describe the picture to be sent.
+The image action should be used whenever USER asks or agrees to {character_name} showing him pictures. It should be followed by keywords that describe the picture to be sent.
 """
 
     id: str = None
