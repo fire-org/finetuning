@@ -1,0 +1,3 @@
+Replace … with ...
+Replace ’ with '
+Remove weird references to 'medium body' etc.
