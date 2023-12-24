@@ -55,7 +55,7 @@ function readFilesRecursively(directoryPath, allObjects, callback) {
 
 // Function to combine and randomize objects from category files
 function combineAndRandomize() {
-  const directoryPath = path.join(__dirname, 'orion.v0.3.2');
+  const directoryPath = path.join(__dirname, 'orion.v0.3.3');
   const allObjects = [];
 
   readFilesRecursively(directoryPath, allObjects, err => {
@@ -68,7 +68,7 @@ function combineAndRandomize() {
     shuffleArray(allObjects);
 
     // Write to a new file
-    const outputFile = path.join(__dirname, 'orion.v0.3.2.json');
+    const outputFile = path.join(__dirname, 'orion.v0.3.3.json');
     fs.writeFile(outputFile, JSON.stringify(allObjects, null, 2), err => {
       if (err) {
         console.error('Error writing the combined file:', err);
