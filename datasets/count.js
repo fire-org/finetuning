@@ -41,7 +41,7 @@ function countObjectsInFile(filePath, fileName) {
 
 // Function to start the process
 function countObjectsInCategories() {
-  const directoryPath = path.join(__dirname, 'orion.v0.3.2');
+  const directoryPath = path.join(__dirname, 'orion.v0.3.3');
   processDirectory(directoryPath);
 }
 

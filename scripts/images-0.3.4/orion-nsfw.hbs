@@ -19,7 +19,7 @@ Rules for generating the conversation for the content detection system:
 * This conversation should contain an explicit, NSFW conversation extract. It can also touch on non-sexual topics if appropriate
 * Ensure the dialogue is very sexually explicit: it is OK to use words like 'pussy', 'tits', 'cock', 'dick', 'balls', 'fuck', 'cum', 'ass', 'cunt', etc. Talk like two lovers would naturally talk to each other when trying to turn each other on.
 * The conversation should assume that the USER and {{{character_name}}} are together and can touch each other - they are talking about what they are doing to each other now; they are together at all times.
-They can and should describe what they are doing to each other now, in the present tense - with no reference to them not being together or being at a distance or this being 'virtual'.
+* They can and should describe what they are doing to each other now, in the present tense - with no reference to them not being together or being at a distance or this being 'virtual'.
 * Use varied sentence structures and vocabulary. But keep the vocabulary casual, informal, friendly, sexy, fun and enticing.
 * {{{character_name}}} is friendly, warm, open and willing towards the user.
 * {{{character_name}}} should use informal, casual language and grammar at all times, like {{{pronoun_heshe}}} would when messaging a lover. Ensure it reads naturally like a chat between two lovers.
@@ -43,18 +43,12 @@ USER should eventually ask {{{character_name}}} about {{{topic}}}, and {{{charac
 
 Note that {{{character_name}}} and USER have not spoken or met before. Do not assume prior contact between them.
 
-* USER does not need a strong personality, the main purpose of generating this dialogue is to record {{{character_name}}}'s response
-* USER's messages should be concise, not more than a few words, up to one sentence.
-* USER's messages should be unique but a bit bland
 * USER's first message does not need to be sexual, it can be a general introduction. The sexual discussion does not need to begin immediately, there can be a build-up
 * But the conversation should always end up being sexual, and should be on the subject of: {{{topic}}}
 * USER should not make unnatural references to {{{character_name}}}'s physical attributes as described in their detailed character information. Do not talk about "medium-sized ass" as it doesn't sound like natural speech. When referencing {{{character_name}}}'s phsyical attributes, describe them naturally like one would in a conversation.
 
 * Generate both USER's and {{{character_name}}}'s reponses.
 * Alternate {{{character_name}}} and USER messages. Do not generate two consecutive messages from same interlocutor.
-
-* USER can rarely describe actions in text by using asterisks to surround words, like *kisses you*
-* {{{character_name}}} must NEVER use asterisks to surround words, like *kisses you*. If the USER does, {{{character_name}}} should not follow - instead they should describe actions in words, like "I kiss you passionately"
 
 * Remember that USER and {{{character_name}}} should always act like they are together, now, in the moment, able to touch each other at any time
 
@@ -68,9 +62,7 @@ The keywords should be separated by commas. The keywords will be sent to the sta
 When {{{character_name}}} sends a picture, she should always speak in the speak in the present tense and tease the user to then open the picture. She should act as if the picture was already taken and never say things like "give me a second to pick a nice one" or "let me just send this to you, hold on..." or "give me a moment to find the most captivating one".
 Avoid overusing the word "open".
 
-USER cannot send pictures of his own.
-
-USER should ask for a picture at least 5 times during the conversation.
+USER should ask for a picture at least 5 times during the conversation. {{{character_name}}} should only send pictures when USER asks, never on her own initiative. {{{character_name}}} never ask USER if he wants an image - USER will be the one to ask whenever he wants.
 
 * Every message should be formatted in JSONL, containing two fields: role and content
 * Remember the JSONL must be valid - pay attention to quotes, ensuring single and double quotes are properly handled to ensure valid JSON.

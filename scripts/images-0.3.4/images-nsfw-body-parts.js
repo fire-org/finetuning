@@ -147,7 +147,7 @@ async function complete({model, topic}) {
         break
       }
 
-      if(!row.content.includes('||')) row.content += ' || none'
+      if(!row.content.includes('||')) row.content = 'none || ' + row.content
 
       localRows[i] = row
     }
@@ -181,7 +181,7 @@ function openaiToShareGpt(obj) {
 async function main() {
   const data = []
 
-  const max = 60
+  const max = 200
   const step = 10
 
   for(let i = 0; i < max;) {

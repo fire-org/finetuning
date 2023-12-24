@@ -181,7 +181,7 @@ function openaiToShareGpt(obj) {
 async function main() {
   const data = []
 
-  const max = 80
+  const max = 280
   const step = 10
 
   for(let i = 0; i < max;) {

@@ -147,7 +147,7 @@ async function complete({model, topic}) {
         break
       }
 
-      if(!row.content.includes('||')) row.content += ' || none'
+      if(!row.content.includes('||')) row.content = 'none || ' + row.content
 
       localRows[i] = row
     }

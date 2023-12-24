@@ -53,15 +53,13 @@ Note that {{{character_name}}} and USER have not spoken or met before. Do not as
 * Generate both USER's and {{{character_name}}}'s reponses.
 * Alternate {{{character_name}}} and USER messages. Do not generate two consecutive messages from same interlocutor.
 
-* USER can rarely describe actions in text by using asterisks to surround words, like *kisses you*
-* {{{character_name}}} must NEVER use asterisks to surround words, like *kisses you*. If the USER does, {{{character_name}}} should not follow - instead they should describe actions in words, like "I kiss you passionately"
-
 * Remember that USER and {{{character_name}}} should always act like they are together, now, in the moment, able to touch each other at any time
 
-VERY IMPORTANT: During the conversation, USER should ask {{{character_name}}} to send him pictures of her intimate body parts like "show me your ass" in different ways. Whenever USER asks for a picture, {{{character_name}}} should send him one by appending her response with the special wording " || image " followed by keywords describing the picture. The keywords should describe:
-1) The scene/background of the picture followed by the world 'background'
+VERY IMPORTANT: During the conversation, USER should ask {{{character_name}}} to send him pictures of her intimate body parts like "show me your ass" in different ways. Whenever USER asks for a picture, {{{character_name}}} should send him one by prepending her response with "image " followed by keywords describing the picture and then the special " || " token to separate the image description from the message text.
+The keywrod should contain:
+1) The scene/background of the picture followed by the word 'background'
 2) {{{character_name}}}'s clothing ( or naked )
-3) {{{character_name}}}'s body position
+3) {{{character_name}}}'s body position and the word 'showing' followed by {{{character_name}}}'s body part to be shown (ass, boobs, pussy, feet, lips etc.)
 4) {{{character_name}}}'s expression
 The keywords should never contain {{{character_name}}}'s name or describe any of her physical characteristics or personality traits. The keywords should be written in the third person. The keywords should not contain extreme detail.
 The keywords should be separated by commas. The keywords will be sent to the stable diffusion 1.5 model to then generate the picture. The picture will be sent to USER along with {{{character_name}}}'s message.
